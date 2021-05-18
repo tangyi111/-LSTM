@@ -1,0 +1,2945 @@
+state,county,cases,deaths
+New York,New York City,198710,20376
+Illinois,Cook,64691,2980
+California,Los Angeles,39573,1913
+New York,Nassau,39295,2541
+New York,Suffolk,38327,1822
+New York,Westchester,32401,1424
+Pennsylvania,Philadelphia,20129,1109
+Massachusetts,Middlesex,19504,1436
+Michigan,Wayne,19292,2275
+New Jersey,Hudson,17621,1082
+New Jersey,Bergen,17522,1474
+Massachusetts,Suffolk,16825,797
+New Jersey,Essex,16686,1565
+Florida,Miami-Dade,15941,578
+New Jersey,Passaic,15371,842
+New Jersey,Union,15031,977
+New Jersey,Middlesex,14834,903
+Connecticut,Fairfield,14522,1160
+New York,Rockland,12798,445
+Massachusetts,Essex,12748,797
+Maryland,Prince George's,12261,445
+Connecticut,New Haven,10427,838
+New York,Orange,10003,352
+Texas,Harris,9859,207
+Massachusetts,Worcester,9582,597
+Rhode Island,Providence,9112,342
+Connecticut,Hartford,9050,1090
+Maryland,Montgomery,8988,503
+Indiana,Marion,8632,532
+Michigan,Oakland,8078,928
+New Jersey,Ocean,8067,643
+Virginia,Fairfax,8020,292
+Texas,Dallas,7904,191
+Washington,King,7901,536
+Massachusetts,Norfolk,7565,735
+Arizona,Maricopa,7482,339
+New Jersey,Monmouth,7470,520
+District of Columbia,District of Columbia,7434,400
+Massachusetts,Plymouth,7198,470
+Louisiana,Jefferson,7095,429
+Louisiana,Orleans,6869,494
+Illinois,Lake,6709,221
+Florida,Broward,6369,282
+Michigan,Macomb,6367,753
+Illinois,DuPage,6171,315
+New Jersey,Morris,6100,572
+California,San Diego,6089,242
+Massachusetts,Bristol,6080,330
+Pennsylvania,Montgomery,6063,575
+California,Riverside,6053,270
+New Jersey,Mercer,6018,422
+Pennsylvania,Delaware,5807,491
+Minnesota,Hennepin,5650,476
+New Jersey,Camden,5644,279
+Nevada,Clark,5536,304
+Massachusetts,Hampden,5335,521
+Wisconsin,Milwaukee,5185,260
+New York,Erie,5037,450
+Maryland,Baltimore,4936,263
+Colorado,Denver,4790,285
+Ohio,Franklin,4706,193
+Florida,Palm Beach,4697,284
+Illinois,Kane,4682,120
+Texas,Tarrant,4643,130
+Illinois,Will,4577,244
+Pennsylvania,Bucks,4573,426
+California,Orange,4558,88
+Tennessee,Davidson,4390,46
+Missouri,St. Louis,4374,347
+New Jersey,Somerset,4312,382
+Utah,Salt Lake,4019,62
+Maryland,Baltimore city,4010,210
+New Jersey,Burlington,4000,247
+Tennessee,Shelby,3936,88
+Virginia,Prince William,3934,73
+Delaware,Sussex,3904,115
+Colorado,Arapahoe,3827,258
+Georgia,Fulton,3795,174
+Pennsylvania,Berks,3735,262
+New York,Dutchess,3710,131
+California,San Bernardino,3707,157
+Pennsylvania,Lehigh,3513,182
+Ohio,Cuyahoga,3463,183
+Michigan,Unknown,3242,63
+South Dakota,Minnehaha,3165,40
+Washington,Snohomish,3153,131
+Louisiana,East Baton Rouge,3145,219
+Iowa,Polk,3128,83
+Maryland,Anne Arundel,2989,145
+Indiana,Lake,2974,154
+Michigan,Kent,2934,58
+Georgia,DeKalb,2918,87
+Delaware,New Castle,2845,135
+Puerto Rico,Unknown,2805,124
+Georgia,Gwinnett,2771,114
+Pennsylvania,Northampton,2758,176
+North Carolina,Mecklenburg,2717,68
+Colorado,Adams,2675,104
+Washington,Yakima,2598,81
+Nebraska,Douglas,2597,24
+Texas,Travis,2595,81
+Pennsylvania,Lancaster,2593,267
+Pennsylvania,Luzerne,2554,124
+California,Alameda,2543,88
+Ohio,Marion,2524,15
+Georgia,Cobb,2503,135
+California,Santa Clara,2483,138
+New York,Monroe,2377,172
+Iowa,Woodbury,2342,17
+Colorado,Weld,2326,124
+Texas,Bexar,2278,62
+Pennsylvania,Chester,2242,230
+Texas,Potter,2193,24
+Georgia,Hall,2191,40
+California,San Francisco,2186,36
+Rhode Island,Unknown,2162,107
+Ohio,Hamilton,2138,117
+Georgia,Unknown,2136,0
+Wisconsin,Brown,2118,26
+Kentucky,Jefferson,2067,132
+Ohio,Pickaway,2025,31
+Ohio,Lucas,1999,209
+New Mexico,McKinley,1987,79
+New Jersey,Gloucester,1935,125
+Louisiana,Caddo,1912,155
+Michigan,Genesee,1891,235
+Arizona,Pima,1888,158
+Colorado,Jefferson,1882,130
+Texas,El Paso,1852,52
+New Jersey,Atlantic,1838,121
+Washington,Pierce,1827,70
+New Hampshire,Hillsborough,1820,91
+Minnesota,Stearns,1782,10
+New Jersey,Cumberland,1759,56
+Alabama,Mobile,1751,103
+Minnesota,Ramsey,1720,74
+Missouri,St. Louis city,1705,108
+California,San Mateo,1701,68
+Florida,Orange,1698,37
+Virginia,Arlington,1688,79
+Florida,Hillsborough,1670,60
+Georgia,Dougherty,1668,139
+New York,Onondaga,1665,99
+Pennsylvania,Allegheny,1658,145
+New York,Albany,1655,130
+Iowa,Black Hawk,1628,31
+California,Kern,1596,26
+Illinois,Winnebago,1588,44
+Texas,Fort Bend,1581,40
+Nebraska,Dakota,1565,16
+New York,Ulster,1565,43
+Indiana,Cass,1562,7
+Louisiana,St. Tammany,1559,149
+Virginia,Alexandria city,1544,34
+California,Tulare,1539,71
+Utah,Utah,1537,12
+Virginia,Loudoun,1527,48
+Florida,Lee,1519,89
+California,Santa Barbara,1509,11
+Maryland,Frederick,1498,90
+Maryland,Howard,1468,49
+Nebraska,Hall,1435,39
+New Mexico,San Juan,1408,92
+Kansas,Ford,1404,2
+Minnesota,Nobles,1394,2
+Tennessee,Trousdale,1384,4
+Pennsylvania,Lackawanna,1374,127
+Alabama,Jefferson,1367,78
+Colorado,El Paso,1357,84
+Kansas,Finney,1331,6
+Arizona,Navajo,1320,48
+Florida,Duval,1318,36
+Virginia,Henrico,1299,114
+Nevada,Washoe,1295,48
+Connecticut,Litchfield,1290,117
+California,Fresno,1287,17
+North Carolina,Wake,1272,30
+South Carolina,Richland,1267,61
+Pennsylvania,Monroe,1267,89
+New York,Sullivan,1258,24
+Michigan,Washtenaw,1251,89
+California,Sacramento,1249,56
+Ohio,Mahoning,1247,156
+Delaware,Kent,1238,53
+North Dakota,Cass,1229,34
+New Mexico,Bernalillo,1225,59
+Kansas,Wyandotte,1224,70
+Illinois,McHenry,1224,64
+California,Contra Costa,1192,33
+Massachusetts,Barnstable,1177,96
+New York,Putnam,1159,59
+South Carolina,Greenville,1145,50
+New Hampshire,Rockingham,1138,63
+Guam,Unknown,1123,6
+Texas,Denton,1116,28
+New Jersey,Warren,1091,121
+Oklahoma,Oklahoma,1087,49
+Texas,Collin,1075,31
+Indiana,Hendricks,1068,74
+New Jersey,Sussex,1063,139
+Florida,Pinellas,1062,71
+Wisconsin,Racine,1061,19
+Indiana,Allen,1060,72
+Indiana,Hamilton,1055,97
+Kansas,Leavenworth,1053,7
+North Carolina,Durham,1053,39
+Virginia,Chesterfield,1043,29
+Ohio,Summit,1042,113
+Indiana,Johnson,1041,102
+Florida,Collier,1030,40
+Arizona,Apache,1023,20
+Indiana,St. Joseph,1022,35
+Georgia,Clayton,1010,38
+Oregon,Multnomah,1005,55
+Pennsylvania,Dauphin,989,50
+Illinois,Kankakee,967,43
+Louisiana,Ouachita,966,32
+Arkansas,Lincoln,965,8
+Connecticut,Middlesex,947,131
+Arizona,Coconino,943,66
+Michigan,Saginaw,940,99
+Minnesota,Anoka,919,42
+Nebraska,Lancaster,912,7
+Alabama,Montgomery,907,24
+Tennessee,Rutherford,906,19
+Illinois,St. Clair,905,69
+North Carolina,Guilford,904,49
+Missouri,Kansas City,903,22
+California,Imperial,902,17
+Iowa,Linn,899,73
+Maryland,Charles,896,63
+Florida,Manatee,888,82
+New Jersey,Hunterdon,885,53
+Rhode Island,Kent,883,46
+Connecticut,New London,880,66
+Pennsylvania,Lebanon,880,24
+North Carolina,Wayne,879,16
+Colorado,Boulder,871,60
+Pennsylvania,York,866,18
+Wisconsin,Kenosha,866,19
+Maine,Cumberland,863,38
+Oregon,Marion,855,24
+California,Ventura,850,28
+Texas,Montgomery,848,18
+New York,Niagara,845,39
+Minnesota,Dakota,841,25
+Maryland,Wicomico,839,21
+Louisiana,St. John the Baptist,831,77
+Kentucky,Warren,828,3
+Iowa,Marshall,817,7
+Virginia,Richmond city,811,19
+Nebraska,Dawson,810,7
+Oklahoma,Tulsa,802,37
+New Jersey,Unknown,802,0
+Washington,Benton,801,58
+Iowa,Dallas,795,11
+Texas,Brazoria,795,11
+Mississippi,Hinds,786,22
+New York,Oneida,785,38
+Oklahoma,Texas,784,4
+Idaho,Ada,783,23
+Kansas,Seward,780,1
+Massachusetts,Hampshire,780,73
+Connecticut,Tolland,770,54
+Tennessee,Sumner,768,41
+Florida,Polk,766,45
+Louisiana,Ascension,762,50
+Louisiana,Lafourche,750,64
+Georgia,Cherokee,745,26
+Louisiana,Tangipahoa,742,30
+Michigan,Kalamazoo,739,44
+Indiana,Elkhart,738,25
+North Carolina,Forsyth,736,7
+Arizona,Pinal,720,32
+Florida,Escambia,719,21
+Arkansas,Pulaski,713,25
+Missouri,St. Charles,712,53
+Maryland,Carroll,712,69
+Maryland,Harford,712,35
+California,San Joaquin,709,33
+Texas,Galveston,706,31
+Virginia,Accomack,701,9
+Virginia,Manassas city,680,5
+Kansas,Johnson,666,57
+Colorado,Douglas,654,42
+Michigan,Ingham,650,23
+Texas,Cameron,649,30
+Virginia,Harrisonburg city,647,21
+Pennsylvania,Franklin,644,27
+Oregon,Washington,644,15
+Ohio,Butler,639,17
+Alabama,Marshall,638,9
+New York,Schenectady,631,27
+Florida,Osceola,629,17
+Texas,Lubbock,624,50
+Texas,Randall,616,5
+Louisiana,St. Charles,615,42
+Florida,Volusia,612,30
+Georgia,Henry,611,19
+Ohio,Lorain,610,58
+Ohio,Stark,610,79
+Tennessee,Bledsoe,607,1
+Louisiana,Lafayette,605,23
+Illinois,Kendall,602,22
+Mississippi,Lauderdale,602,46
+North Carolina,Robeson,600,12
+Kentucky,Fayette,596,12
+Illinois,Rock Island,594,21
+California,Stanislaus,593,26
+Louisiana,Terrebonne,591,44
+Washington,Franklin,587,18
+Texas,Moore,575,12
+Colorado,Morgan,574,35
+Iowa,Johnson,574,7
+Michigan,Ottawa,573,25
+Colorado,Eagle,571,8
+Indiana,Madison,562,66
+Mississippi,Madison,561,17
+North Carolina,Rowan,560,27
+Virginia,Virginia Beach city,559,19
+Mississippi,Scott,550,10
+Wisconsin,Dane,548,25
+South Carolina,Florence,547,29
+Missouri,Buchanan,543,2
+North Carolina,Chatham,541,24
+Pennsylvania,Cumberland,540,42
+Kansas,Sedgwick,538,20
+Michigan,Berrien,538,33
+Pennsylvania,Schuylkill,534,21
+Pennsylvania,Beaver,534,70
+Florida,Sarasota,533,63
+Nebraska,Colfax,532,1
+Iowa,Muscatine,531,33
+Ohio,Montgomery,531,13
+Louisiana,Iberville,528,38
+Louisiana,Calcasieu,521,40
+Michigan,Muskegon,519,25
+New Jersey,Cape May,518,42
+Louisiana,St. Bernard,516,20
+South Carolina,Lexington,516,28
+South Carolina,Charleston,515,11
+Idaho,Blaine,509,5
+Colorado,Larimer,508,21
+Louisiana,Rapides,504,15
+Texas,Williamson,501,20
+Virginia,Stafford,501,4
+North Carolina,Cumberland,500,13
+Illinois,Madison,499,45
+New Mexico,Sandoval,498,24
+Massachusetts,Berkshire,497,37
+Arkansas,Jefferson,497,20
+Georgia,Richmond,495,17
+Tennessee,Williamson,492,10
+Wisconsin,Waukesha,492,23
+Colorado,Logan,488,3
+Nebraska,Platte,481,1
+Minnesota,Olmsted,479,10
+Texas,Webb,479,18
+Kentucky,Kenton,479,32
+Kentucky,Muhlenberg,476,7
+Oklahoma,Cleveland,470,36
+New Jersey,Salem,470,21
+Pennsylvania,Pike,469,17
+Ohio,Trumbull,469,39
+North Carolina,Randolph,469,6
+Texas,Jefferson,466,26
+North Carolina,Duplin,462,12
+Georgia,Habersham,457,14
+Missouri,Jackson,457,16
+Texas,Hidalgo,457,10
+Ohio,Columbiana,453,45
+Virginia,Culpeper,452,5
+Georgia,Muscogee,451,16
+Alabama,Lee,450,31
+North Carolina,Wilkes,448,1
+Georgia,Douglas,445,19
+New York,Rensselaer,444,32
+Florida,Seminole,442,12
+Indiana,Bartholomew,442,34
+Texas,Walker,442,26
+Vermont,Chittenden,439,38
+Wisconsin,Rock,438,14
+Indiana,Clark,437,43
+Nebraska,Saline,436,1
+New York,Saratoga,436,4
+Illinois,Champaign,435,7
+Mississippi,Forrest,435,29
+California,Solano,435,16
+Arizona,Yuma,433,4
+Michigan,Monroe,433,18
+Pennsylvania,Westmoreland,431,38
+New York,Broome,429,36
+Mississippi,Neshoba,429,25
+Washington,Skagit,426,15
+Rhode Island,Washington,425,32
+Georgia,Sumter,421,39
+Indiana,Porter,420,14
+Minnesota,Kandiyohi,420,1
+Virginia,Buckingham,419,2
+Georgia,Carroll,418,21
+Michigan,Jackson,418,26
+Indiana,Shelby,417,28
+California,Kings,416,2
+Washington,Spokane,416,31
+Hawaii,Honolulu,415,11
+Georgia,Forsyth,412,11
+Michigan,St. Clair,412,32
+Washington,Clark,412,25
+South Carolina,Spartanburg,411,13
+California,Sonoma,411,4
+Georgia,Bibb,411,18
+Georgia,Bartow,410,35
+Tennessee,Tipton,407,2
+Iowa,Wapello,405,2
+Mississippi,DeSoto,404,5
+Tennessee,Hamilton,404,13
+Alabama,Shelby,404,19
+Utah,Summit,403,0
+Tennessee,Lake,403,0
+Virginia,Rockingham,401,5
+Texas,Taylor,400,6
+Minnesota,Washington,398,19
+Virginia,Chesapeake city,396,10
+Florida,Martin,396,8
+Iowa,Crawford,394,1
+Georgia,Mitchell,394,32
+Florida,Charlotte,392,44
+North Carolina,Cabarrus,389,21
+Alabama,Tuscaloosa,387,8
+Michigan,Livingston,385,26
+Georgia,Chatham,379,16
+Louisiana,Washington,375,34
+Utah,Davis,373,2
+Florida,Brevard,371,11
+Alabama,Tallapoosa,371,57
+Virginia,Norfolk city,370,6
+Kansas,Lyon,369,3
+Nebraska,Sarpy,366,2
+North Carolina,Union,365,17
+Alabama,Franklin,364,4
+Mississippi,Leake,364,7
+Arkansas,St. Francis,362,0
+Iowa,Tama,362,18
+Kentucky,Boone,361,11
+Indiana,LaPorte,360,16
+Washington,Whatcom,359,36
+Mississippi,Jones,358,10
+Louisiana,Iberia,358,35
+Louisiana,Livingston,356,26
+Maryland,Washington,352,8
+New York,Columbia,350,32
+Louisiana,Bossier,348,24
+California,Monterey,345,8
+Georgia,Lee,343,23
+Ohio,Belmont,343,9
+Texas,Brazos,341,18
+Indiana,Jackson,340,2
+Virginia,Spotsylvania,339,4
+Florida,Alachua,339,7
+Maryland,St. Mary's,338,12
+Tennessee,Wilson,338,8
+Florida,St. Lucie,337,28
+Pennsylvania,Columbia,337,29
+California,Marin,336,14
+North Carolina,Lee,333,3
+Idaho,Twin Falls,332,17
+Ohio,Miami,332,30
+Missouri,Jefferson,331,14
+New Mexico,Doña Ana,330,2
+Virginia,Shenandoah,329,12
+Alabama,Chambers,329,22
+Florida,Pasco,327,12
+Connecticut,Windham,326,14
+Illinois,Sangamon,323,28
+South Carolina,Sumter,323,17
+Georgia,Houston,323,16
+Maryland,Cecil,323,18
+Florida,Clay,321,25
+Tennessee,Knox,320,5
+Minnesota,Clay,318,21
+North Dakota,Grand Forks,317,3
+Iowa,Louisa,315,4
+Indiana,Tippecanoe,315,2
+Illinois,Boone,314,14
+Mississippi,Holmes,310,20
+Iowa,Scott,309,8
+South Carolina,York,308,5
+Michigan,Calhoun,308,19
+Massachusetts,Franklin,308,45
+Maine,York,307,8
+Indiana,Floyd,306,40
+North Carolina,Davidson,306,11
+Indiana,Howard,306,15
+Oklahoma,Washington,304,32
+Indiana,Hancock,304,25
+South Carolina,Horry,303,20
+Florida,Leon,303,6
+South Carolina,Beaufort,299,12
+Tennessee,Robertson,298,0
+Ohio,Portage,297,53
+Indiana,Delaware,297,23
+Kentucky,Daviess,296,6
+Mississippi,Rankin,295,6
+Alabama,Butler,295,10
+North Carolina,Henderson,295,41
+South Carolina,Clarendon,293,34
+Georgia,Baldwin,292,14
+Georgia,Thomas,289,30
+Massachusetts,Unknown,288,3
+Mississippi,Jackson,287,13
+Georgia,Coweta,287,4
+Wisconsin,Walworth,287,11
+Tennessee,Putnam,286,5
+Iowa,Dubuque,286,10
+Ohio,Warren,285,15
+Oregon,Clackamas,284,9
+Louisiana,St. James,284,23
+New Hampshire,Merrimack,283,12
+North Carolina,Orange,283,37
+Idaho,Canyon,280,6
+Indiana,Boone,280,37
+Nebraska,Madison,278,3
+Alabama,Madison,278,4
+Louisiana,St. Mary,277,29
+Louisiana,St. Martin,275,22
+Louisiana,Franklin,274,9
+Nebraska,Dodge,274,1
+South Carolina,Kershaw,272,12
+Ohio,Tuscarawas,272,1
+Minnesota,Scott,271,1
+Minnesota,Rice,270,2
+North Carolina,Johnston,269,19
+Virginia,Suffolk city,269,25
+Arizona,Yavapai,269,5
+Illinois,DeKalb,268,4
+Georgia,Barrow,267,8
+Georgia,Upson,267,31
+Georgia,Newton,266,10
+Ohio,Delaware,266,9
+Virginia,Richmond,265,4
+North Carolina,Sampson,265,1
+Arizona,Mohave,262,28
+Alabama,Baldwin,262,8
+Louisiana,Acadia,262,12
+Texas,Bell,260,3
+New York,Madison,260,3
+Mississippi,Attala,259,9
+Texas,Ellis,258,12
+Georgia,Colquitt,258,11
+Tennessee,Bedford,257,4
+Indiana,Morgan,257,23
+Ohio,Wood,257,43
+Florida,Lake,257,14
+Maryland,Calvert,256,13
+Nebraska,Adams,255,11
+Florida,Sumter,253,16
+Missouri,Saline,253,0
+North Carolina,Harnett,252,20
+Georgia,Rockdale,252,8
+North Carolina,Columbus,251,21
+North Carolina,Wilson,251,9
+Iowa,Jasper,250,14
+Michigan,Bay,250,16
+Texas,Nueces,248,3
+Georgia,Paulding,247,10
+California,San Luis Obispo,247,1
+Georgia,Spalding,246,14
+Louisiana,Union,245,15
+Ohio,Ashtabula,244,26
+Virginia,Fauquier,243,5
+Texas,Nacogdoches,241,17
+Arkansas,Crittenden,241,7
+Florida,Gadsden,241,1
+New Hampshire,Strafford,240,12
+Texas,Hays,238,3
+Illinois,Randolph,238,3
+Utah,San Juan,238,4
+Virginia,Portsmouth city,237,10
+Louisiana,St. Landry,237,51
+New York,Steuben,236,18
+Michigan,Shiawassee,235,21
+New York,Warren,235,27
+Georgia,Early,234,28
+Florida,St. Johns,233,5
+Virginia,Hanover,232,19
+Ohio,Lake,231,9
+Indiana,Decatur,230,34
+Louisiana,Assumption,230,11
+Ohio,Medina,229,18
+Oklahoma,Comanche,229,3
+Wyoming,Fremont,228,5
+South Carolina,Darlington,227,5
+Washington,Grant,226,3
+Ohio,Geauga,226,26
+Texas,Coryell,226,2
+Louisiana,De Soto,226,16
+Indiana,Vanderburgh,226,3
+Florida,Hendry,224,12
+Utah,Weber,224,3
+Florida,Marion,224,5
+North Carolina,Alamance,223,12
+Virginia,Frederick,223,3
+West Virginia,Berkeley,223,6
+California,Merced,222,6
+North Carolina,Pitt,221,2
+New York,Washington,220,11
+Mississippi,Monroe,220,23
+Colorado,Pueblo,219,14
+Mississippi,Lincoln,218,18
+Mississippi,Harrison,218,6
+Connecticut,Unknown,218,2
+Kentucky,Butler,217,6
+Kentucky,Hopkins,217,28
+Tennessee,Montgomery,216,2
+Ohio,Fairfield,215,3
+Alabama,Etowah,215,10
+New York,Greene,214,4
+Colorado,Broomfield,214,24
+Utah,Washington,214,0
+Pennsylvania,Carbon,214,22
+Pennsylvania,Huntingdon,214,0
+Georgia,Troup,213,6
+Georgia,Fayette,212,11
+Georgia,Columbia,212,6
+Utah,Wasatch,212,1
+South Carolina,Anderson,211,8
+Virginia,Newport News city,209,10
+Georgia,Coffee,209,12
+Georgia,Lowndes,209,5
+North Carolina,Gaston,208,6
+Maryland,Caroline,208,0
+Mississippi,Copiah,207,3
+Alabama,Elmore,207,6
+Ohio,Wayne,206,49
+North Carolina,Burke,206,14
+Pennsylvania,Butler,206,12
+Alaska,Anchorage,206,4
+South Dakota,Lincoln,205,0
+South Dakota,Brown,205,0
+Texas,Harrison,205,21
+Virginia,Northampton,204,11
+West Virginia,Kanawha,203,16
+South Carolina,Berkeley,203,15
+North Carolina,Granville,202,6
+Virginia,Manassas Park city,202,3
+Mississippi,Leflore,202,22
+Indiana,Grant,201,21
+Georgia,Worth,201,18
+Georgia,Crisp,200,7
+Georgia,Clarke,200,13
+Mississippi,Lamar,199,4
+Kansas,Shawnee,199,5
+Georgia,Butts,199,17
+Florida,Liberty,199,0
+Georgia,Terrell,199,24
+North Carolina,Iredell,199,5
+North Carolina,Vance,197,17
+Rhode Island,Newport,197,4
+Louisiana,Plaquemines,196,16
+Mississippi,Newton,196,3
+Georgia,Floyd,195,13
+Louisiana,Unknown,195,123
+Alabama,DeKalb,195,3
+Mississippi,Pearl River,195,27
+Georgia,Whitfield,194,7
+Pennsylvania,Adams,194,5
+Texas,Smith,192,4
+Mississippi,Yazoo,192,2
+New York,St. Lawrence,192,2
+Colorado,Summit,192,2
+Ohio,Licking,190,9
+Louisiana,West Feliciana,190,8
+Virginia,James City,189,15
+Illinois,McLean,189,6
+Indiana,Montgomery,188,13
+Georgia,Tift,188,14
+Indiana,Wayne,188,5
+Washington,Chelan,187,7
+Florida,Santa Rosa,186,9
+Illinois,Jackson,186,10
+Indiana,White,186,5
+California,Yolo,185,22
+Michigan,Allegan,184,3
+Illinois,Ogle,184,2
+Mississippi,Pike,184,11
+Texas,Washington,184,22
+Wyoming,Laramie,183,2
+Tennessee,Hardeman,183,0
+New York,Genesee,182,4
+New York,Fulton,182,11
+Minnesota,Wright,182,1
+North Carolina,Buncombe,182,6
+South Carolina,Williamsburg,181,10
+Washington,Island,181,10
+Michigan,Lapeer,180,30
+Florida,Okaloosa,179,5
+Colorado,Gunnison,179,6
+Louisiana,East Feliciana,179,24
+Virginia,Mecklenburg,178,17
+California,Placer,177,9
+Mississippi,Adams,177,15
+Georgia,Ware,177,13
+Alabama,Coffee,175,1
+Indiana,Harrison,175,19
+Texas,Shelby,175,5
+Iowa,Pottawattamie,174,2
+South Carolina,Lee,174,11
+Iowa,Washington,173,8
+Texas,Gregg,173,0
+Michigan,Tuscola,173,21
+Louisiana,Pointe Coupee,173,21
+Rhode Island,Bristol,172,1
+Ohio,Allen,171,30
+North Carolina,Edgecombe,170,8
+Georgia,Hancock,170,6
+Illinois,Macon,170,17
+Georgia,Randolph,169,21
+New York,Orleans,168,18
+Florida,Flagler,167,4
+Maryland,Allegany,166,14
+Georgia,Walton,166,9
+Illinois,Clinton,165,14
+California,Santa Cruz,165,3
+Illinois,Peoria,165,6
+Maryland,Worcester,165,6
+Indiana,Greene,165,24
+Texas,Grayson,165,0
+Michigan,Hillsdale,165,24
+Michigan,Eaton,165,6
+Virginia,Page,165,17
+Ohio,Richland,165,2
+Minnesota,Sherburne,164,2
+Virginia,Hampton city,164,3
+Tennessee,Madison,162,2
+Texas,Panola,162,16
+Georgia,Dooly,162,12
+Indiana,Dubois,162,2
+Texas,Johnson,161,4
+Washington,Kitsap,161,2
+Illinois,Stephenson,160,1
+North Carolina,Lenoir,160,5
+North Carolina,Hoke,160,0
+Florida,Suwannee,160,18
+Alabama,Dallas,159,3
+Indiana,Dearborn,158,19
+Texas,Victoria,157,7
+South Carolina,Aiken,156,7
+North Carolina,Nash,156,3
+Ohio,Clermont,156,5
+Wisconsin,Washington,155,4
+Arkansas,Benton,155,0
+Ohio,Clark,155,4
+Texas,Kaufman,155,2
+North Carolina,Rutherford,155,7
+Kentucky,Graves,154,18
+Texas,Angelina,154,1
+Indiana,Noble,153,21
+Indiana,Warrick,152,26
+New York,Ontario,152,7
+Indiana,Monroe,152,9
+Arkansas,Washington,151,5
+Maine,Androscoggin,151,2
+Indiana,Clinton,150,2
+Pennsylvania,Lycoming,149,9
+Montana,Gallatin,149,1
+Florida,Jackson,148,0
+Texas,Bastrop,148,2
+Alabama,Walker,148,1
+Ohio,Mercer,148,2
+Alabama,Sumter,148,4
+Louisiana,West Baton Rouge,148,30
+Pennsylvania,Erie,147,4
+Florida,Hamilton,147,0
+Arkansas,Craighead,147,0
+Wisconsin,Outagamie,146,5
+Iowa,Sioux,146,0
+Wisconsin,Fond du Lac,145,3
+Pennsylvania,Northumberland,145,2
+Mississippi,Noxubee,145,4
+Maryland,Kent,144,14
+Minnesota,Benton,142,2
+Indiana,Lawrence,142,23
+New York,Tompkins,142,2
+Virginia,Albemarle,141,4
+Alabama,Houston,141,4
+Michigan,Lenawee,140,3
+Kentucky,Ohio,140,0
+Indiana,Henry,140,4
+Alabama,Lowndes,140,10
+Texas,Bowie,137,11
+Virginia,Southampton,137,2
+Oklahoma,Wagoner,137,17
+Colorado,Montrose,136,11
+Nebraska,Buffalo,136,1
+Texas,Rockwall,136,5
+Michigan,Clinton,136,10
+Kentucky,Campbell,135,11
+Virginia,Roanoke city,135,8
+West Virginia,Jackson,135,17
+Missouri,Franklin,135,14
+Mississippi,Warren,135,5
+South Carolina,Fairfield,134,8
+New York,Chemung,134,5
+Georgia,Jackson,134,3
+Florida,Putnam,134,3
+North Carolina,New Hanover,134,3
+Texas,Deaf Smith,133,7
+Alabama,Calhoun,133,3
+North Carolina,Craven,133,4
+Maryland,Queen Anne's,133,11
+Indiana,Miami,132,1
+South Carolina,Dillon,132,2
+Pennsylvania,Centre,132,5
+Mississippi,Lowndes,132,6
+Georgia,Gordon,132,15
+Washington,Douglas,131,3
+Louisiana,Allen,131,10
+Georgia,Decatur,131,4
+North Carolina,Northampton,131,10
+Pennsylvania,Washington,130,5
+Arkansas,Unknown,130,0
+Arkansas,Garland,130,1
+Mississippi,Bolivar,129,10
+North Carolina,Franklin,129,20
+Texas,Titus,129,1
+Minnesota,Carver,128,2
+Mississippi,Washington,128,4
+Indiana,Putnam,128,6
+Texas,Ector,127,4
+Washington,Thurston,127,1
+Alabama,Autauga,127,4
+New Mexico,Santa Fe,126,3
+Ohio,Darke,126,16
+Wisconsin,Winnebago,126,1
+Illinois,Whiteside,126,9
+Tennessee,McMinn,125,12
+Wisconsin,Ozaukee,125,11
+Ohio,Erie,124,3
+Indiana,Orange,124,21
+South Carolina,Saluda,123,0
+Minnesota,Martin,123,5
+Missouri,Clay,123,1
+Michigan,Ionia,123,3
+Texas,Midland,122,12
+Illinois,Union,122,4
+Louisiana,Lincoln,122,14
+Oklahoma,Caddo,122,10
+Georgia,Calhoun,122,6
+Maryland,Dorchester,122,2
+Illinois,LaSalle,121,8
+Oklahoma,Canadian,120,3
+Texas,Hardin,120,4
+Mississippi,Smith,120,9
+Alabama,Randolph,120,7
+Maine,Kennebec,120,8
+Indiana,Vigo,120,7
+Illinois,Iroquois,119,4
+Louisiana,Webster,119,5
+Virginia,Isle of Wight,119,3
+Alabama,Morgan,119,1
+Indiana,Jennings,119,6
+North Carolina,Halifax,119,1
+North Carolina,Moore,119,10
+Georgia,Burke,118,4
+New York,Chenango,118,2
+North Carolina,Yadkin,118,1
+Iowa,Buena Vista,117,0
+Hawaii,Maui,117,6
+North Dakota,Burleigh,117,0
+Arkansas,Union,117,4
+North Carolina,Catawba,117,3
+Alabama,Lauderdale,116,2
+Alabama,Marengo,116,6
+Mississippi,Jasper,116,3
+West Virginia,Monongalia,116,5
+Mississippi,Chickasaw,116,12
+Ohio,Washington,116,17
+Texas,Lamar,116,9
+Georgia,Gilmer,116,0
+Michigan,Van Buren,116,6
+Texas,Jones,115,0
+Minnesota,Steele,115,0
+North Carolina,Richmond,115,2
+Colorado,Garfield,115,2
+Iowa,Allamakee,115,4
+South Carolina,Orangeburg,115,2
+Florida,Citrus,114,12
+Georgia,Stephens,114,2
+South Carolina,Dorchester,114,3
+Georgia,Appling,113,11
+Florida,Columbia,113,2
+Mississippi,Clarke,113,14
+New York,Tioga,113,16
+Missouri,Greene,111,8
+Indiana,Franklin,111,8
+New York,Livingston,111,4
+Illinois,Warren,110,0
+Texas,Guadalupe,110,0
+Alabama,Pike,110,0
+Pennsylvania,Wayne,110,7
+New Mexico,Cibola,110,4
+Mississippi,Carroll,110,8
+Mississippi,Covington,110,1
+Florida,Hernando,109,5
+Kentucky,Grayson,109,8
+Wisconsin,Dodge,109,1
+Mississippi,Lafayette,109,3
+Tennessee,Unknown,109,0
+Oregon,Linn,109,9
+Alabama,Russell,109,0
+Florida,Indian River,108,9
+Louisiana,Richland,108,2
+South Carolina,Lancaster,108,5
+Oregon,Deschutes,107,0
+Mississippi,Oktibbeha,107,8
+Indiana,Ripley,107,6
+Florida,Highlands,107,8
+Minnesota,St. Louis,107,13
+Louisiana,Catahoula,106,3
+Alabama,Marion,106,9
+Missouri,Boone,106,1
+Washington,Walla Walla,106,2
+Idaho,Jerome,105,2
+Mississippi,Kemper,105,10
+Utah,Tooele,103,0
+Virginia,Warren,103,2
+Louisiana,Natchitoches,103,12
+West Virginia,Jefferson,102,1
+Georgia,Monroe,102,7
+South Carolina,Chesterfield,101,1
+Ohio,Morrow,101,1
+Oregon,Umatilla,101,3
+Virginia,Fredericksburg city,101,0
+North Carolina,Surry,101,1
+Wyoming,Teton,100,1
+Ohio,Madison,100,6
+Illinois,Jefferson,100,17
+Vermont,Franklin,99,5
+Florida,Monroe,99,3
+Kentucky,Bullitt,99,4
+Indiana,Scott,99,2
+New Mexico,Otero,99,1
+Michigan,Otsego,99,10
+New York,Wayne,98,1
+Virginia,Sussex,98,1
+Alabama,Colbert,98,2
+Kentucky,Christian,98,3
+Georgia,Laurens,98,1
+Kentucky,Logan,98,3
+Texas,McLennan,98,4
+Ohio,Crawford,98,2
+Arizona,Santa Cruz,97,0
+Tennessee,Loudon,97,0
+Georgia,Wilcox,97,12
+Kentucky,Henderson,97,4
+Alabama,Wilcox,97,5
+Alabama,Hale,96,2
+Oklahoma,Delaware,96,16
+Virginia,Winchester city,96,1
+Pennsylvania,Mercer,96,4
+Mississippi,Lee,96,5
+West Virginia,Wayne,96,9
+Oklahoma,McClain,95,2
+Arkansas,Faulkner,95,3
+North Carolina,Bertie,95,3
+Michigan,Branch,95,2
+Tennessee,Fayette,95,2
+South Carolina,Pickens,94,3
+Pennsylvania,Juniata,94,2
+New York,Clinton,94,4
+Kentucky,Adair,94,17
+Louisiana,Avoyelles,94,9
+Texas,Gray,94,1
+Tennessee,Cumberland,94,1
+Maine,Penobscot,94,1
+Oregon,Polk,93,9
+Louisiana,Morehouse,93,5
+Tennessee,Macon,93,3
+Georgia,Macon,93,6
+Mississippi,Marion,93,8
+Tennessee,Dickson,93,0
+Minnesota,Blue Earth,93,0
+California,Napa,93,3
+Tennessee,Cheatham,93,0
+Oklahoma,Osage,92,8
+Pennsylvania,Fayette,92,4
+Alabama,Choctaw,92,3
+New York,Herkimer,92,1
+North Carolina,Caldwell,92,2
+Georgia,Grady,92,4
+Michigan,Alpena,91,9
+Alabama,St. Clair,91,1
+Florida,Walton,91,5
+Illinois,Monroe,90,11
+Georgia,White,90,3
+Louisiana,Winn,90,2
+Alabama,Barbour,90,1
+Michigan,St. Joseph,90,1
+New York,Oswego,89,0
+Illinois,Knox,89,0
+Texas,Maverick,89,0
+Iowa,Plymouth,89,0
+Virginia,Goochland,88,5
+Virginia,Roanoke,88,3
+Alabama,Greene,87,4
+Iowa,Warren,87,0
+Montana,Yellowstone,87,2
+Texas,Orange,87,2
+North Carolina,Pasquotank,87,7
+Minnesota,Todd,87,0
+Virginia,Augusta,87,1
+Iowa,Poweshiek,87,8
+Texas,Gonzales,86,2
+Mississippi,Winston,86,0
+Pennsylvania,Indiana,86,4
+Florida,Bay,86,3
+Mississippi,Clay,86,3
+Georgia,Dawson,86,1
+California,Humboldt,86,0
+Missouri,Scott,86,7
+Pennsylvania,Susquehanna,85,15
+Alaska,Fairbanks North Star Borough,85,2
+Georgia,Turner,85,12
+Kentucky,Hardin,85,2
+Illinois,Coles,85,7
+Oklahoma,Creek,85,7
+Kentucky,McCracken,85,2
+Mississippi,Coahoma,85,3
+Louisiana,Bienville,84,20
+Alabama,Pickens,84,3
+Tennessee,Bradley,84,1
+Ohio,Putnam,84,13
+Virginia,Prince Edward,83,2
+Georgia,Lumpkin,83,1
+Minnesota,Pine,83,0
+Georgia,Johnson,82,2
+Virginia,Galax city,82,0
+Virginia,Fluvanna,82,6
+Arkansas,Saline,82,1
+Texas,Wichita,82,2
+Alabama,Talladega,81,2
+Mississippi,Hancock,81,10
+Texas,Houston,81,0
+California,Madera,81,2
+Alabama,Clarke,81,2
+Georgia,Pierce,81,4
+Iowa,Story,81,1
+Georgia,Oconee,81,3
+Alabama,Chilton,80,1
+North Carolina,Onslow,80,2
+Georgia,Putnam,80,7
+Mississippi,Lawrence,80,0
+Georgia,Polk,80,0
+Illinois,Grundy,80,1
+Idaho,Nez Perce,79,19
+Mississippi,Itawamba,79,7
+Georgia,Glynn,79,1
+Florida,Unknown,79,0
+Indiana,Carroll,79,2
+New York,Wyoming,79,3
+Missouri,Lincoln,78,1
+Ohio,Greene,78,5
+Mississippi,Wilkinson,78,9
+Mississippi,Simpson,78,0
+North Carolina,Bladen,78,2
+Hawaii,Hawaii,78,0
+Kentucky,Shelby,78,3
+Oklahoma,Adair,77,3
+Wisconsin,Sauk,77,3
+Vermont,Windham,77,3
+Virginia,Colonial Heights city,77,7
+Arkansas,Lawrence,77,4
+Georgia,Walker,76,0
+Tennessee,Blount,76,3
+Michigan,Midland,76,8
+South Carolina,Marlboro,76,0
+Arkansas,Pope,76,0
+Virginia,Lynchburg city,75,1
+Nevada,Carson City,75,3
+Texas,Liberty,75,3
+Illinois,Lee,75,1
+Missouri,Cass,75,8
+Wisconsin,Grant,75,10
+Virginia,Petersburg city,75,2
+Louisiana,Jackson,75,10
+Minnesota,Winona,75,15
+New York,Montgomery,75,3
+Mississippi,Yalobusha,75,2
+Wisconsin,Eau Claire,75,0
+Nevada,Humboldt,74,3
+South Dakota,Pennington,74,1
+Georgia,Harris,74,3
+Mississippi,Montgomery,74,1
+Indiana,Fayette,74,4
+Pennsylvania,Lawrence,73,8
+Indiana,Daviess,73,17
+Georgia,Catoosa,73,0
+Missouri,Johnson,72,0
+Minnesota,Mower,72,0
+Colorado,La Plata,72,1
+Texas,Comal,72,6
+Indiana,Newton,72,10
+Arkansas,Cleburne,72,4
+Virginia,Charlottesville city,72,2
+Illinois,McDonough,72,3
+South Carolina,Greenwood,72,1
+Oklahoma,Rogers,72,5
+Tennessee,Maury,71,0
+Indiana,Wabash,71,2
+Georgia,Bacon,71,2
+Louisiana,Jefferson Davis,71,6
+New York,Jefferson,71,0
+Georgia,Meriwether,70,1
+Tennessee,Washington,70,0
+Wisconsin,Sheboygan,70,3
+Missouri,Pemiscot,70,3
+Alabama,Cullman,70,0
+New Mexico,Valencia,69,1
+Virgin Islands,Unknown,69,6
+Georgia,Peach,69,3
+Indiana,Steuben,69,2
+Georgia,Elbert,69,0
+Colorado,Chaffee,69,17
+New York,Cattaraugus,69,1
+New York,Delaware,69,0
+Mississippi,Jefferson Davis,69,2
+Florida,DeSoto,69,7
+Missouri,Pettis,69,1
+Washington,Cowlitz,69,0
+Mississippi,Tippah,69,11
+Texas,Hunt,68,3
+Missouri,Lafayette,68,3
+Maryland,Talbot,68,1
+Georgia,Washington,68,1
+Mississippi,Sunflower,68,3
+Tennessee,Sevier,68,2
+New York,Cayuga,68,1
+New York,Otsego,67,5
+Minnesota,Carlton,67,0
+California,El Dorado,67,0
+Louisiana,Evangeline,67,1
+Mississippi,Marshall,67,3
+Virginia,Orange,67,0
+Illinois,Cass,66,0
+Georgia,Bryan,66,5
+Idaho,Kootenai,66,0
+Virginia,Montgomery,66,1
+Texas,Matagorda,66,5
+Georgia,Brooks,66,9
+Oklahoma,Greer,66,7
+Florida,Nassau,66,1
+Arkansas,Mississippi,65,1
+Oklahoma,Grady,65,2
+North Carolina,Montgomery,65,3
+Oregon,Lane,65,2
+Illinois,Henry,65,0
+Alabama,Limestone,65,0
+Michigan,Iosco,65,8
+Mississippi,Union,65,4
+Iowa,Bremer,65,5
+Texas,Grimes,65,1
+Illinois,Tazewell,64,4
+Ohio,Ottawa,64,3
+Wyoming,Natrona,64,0
+Utah,Cache,64,0
+Florida,Madison,64,3
+Georgia,Murray,64,1
+Alabama,Dale,63,0
+Alabama,Jackson,63,2
+New Hampshire,Grafton,63,1
+Texas,Parker,63,0
+California,San Benito,63,2
+Virginia,York,63,3
+Tennessee,Wayne,63,0
+Tennessee,Coffee,63,0
+Minnesota,Freeborn,63,0
+Ohio,Sandusky,62,9
+Maryland,Somerset,62,1
+South Dakota,Union,62,0
+Kansas,Riley,62,1
+Kansas,Douglas,62,0
+Texas,Tom Green,62,1
+Michigan,Isabella,62,7
+Wisconsin,Jefferson,62,2
+Oregon,Yamhill,62,7
+Indiana,Kosciusko,62,2
+Vermont,Addison,62,2
+Alabama,Washington,61,5
+Washington,Kittitas,61,0
+North Dakota,Stark,61,2
+Iowa,Clinton,61,1
+Ohio,Jefferson,61,2
+Michigan,Cass,61,2
+Missouri,Platte,61,0
+Ohio,Hocking,61,2
+Mississippi,Grenada,60,2
+Vermont,Bennington,60,1
+Virginia,Louisa,60,0
+Texas,Anderson,60,0
+Georgia,Greene,60,7
+Tennessee,Gibson,59,1
+Ohio,Ross,59,1
+Texas,Medina,59,2
+North Carolina,Brunswick,59,4
+Colorado,Routt,59,6
+Minnesota,Cottonwood,59,0
+Mississippi,Calhoun,59,4
+North Carolina,Hertford,59,1
+Missouri,Stoddard,58,1
+South Carolina,Colleton,58,4
+Michigan,Oceana,58,2
+Louisiana,Claiborne,58,10
+Virginia,Emporia city,58,3
+Alabama,Covington,58,1
+Texas,Chambers,58,0
+Virginia,Hopewell city,58,0
+Pennsylvania,Armstrong,58,2
+Wisconsin,Calumet,58,1
+Michigan,Barry,58,1
+Tennessee,Sullivan,57,2
+Nevada,Nye,57,1
+Pennsylvania,Mifflin,57,1
+Oklahoma,Pottawatomie,57,4
+Louisiana,Concordia,57,5
+South Carolina,Laurens,57,3
+Kentucky,Jackson,57,12
+Kentucky,Oldham,57,0
+Michigan,Crawford,57,5
+Colorado,Pitkin,57,2
+Ohio,Monroe,56,4
+Michigan,Montcalm,56,1
+Georgia,Oglethorpe,56,4
+Virginia,Prince George,56,0
+Minnesota,Polk,56,2
+North Carolina,Scotland,55,0
+Indiana,Rush,55,2
+Ohio,Auglaize,55,3
+Missouri,Cole,55,1
+North Carolina,Cleveland,55,2
+Georgia,McDuffie,55,5
+Mississippi,Tate,55,1
+Colorado,Delta,55,1
+West Virginia,Cabell,55,0
+Pennsylvania,Cambria,54,2
+Nebraska,Scotts Bluff,54,0
+Oregon,Benton,54,5
+Virginia,Greensville,54,7
+Alabama,Macon,54,2
+Nebraska,Hamilton,54,9
+Missouri,Cape Girardeau,54,2
+Alabama,Crenshaw,53,3
+Indiana,LaGrange,53,2
+New Hampshire,Belknap,53,0
+South Carolina,Marion,53,4
+North Carolina,Davie,52,2
+South Carolina,Georgetown,52,3
+Oregon,Jackson,52,0
+Mississippi,Panola,52,2
+Alabama,Bullock,52,1
+Michigan,Marquette,52,10
+Louisiana,Beauregard,52,4
+Illinois,Williamson,52,1
+Tennessee,Hickman,52,0
+Kansas,Reno,51,0
+Alabama,Bibb,51,1
+Georgia,Camden,51,1
+Michigan,Newaygo,51,0
+Tennessee,Monroe,51,2
+Mississippi,Claiborne,51,1
+Texas,Brown,51,7
+Minnesota,Otter Tail,51,0
+Kentucky,Jessamine,51,0
+New York,Seneca,51,0
+Delaware,Unknown,50,1
+Colorado,Mesa,50,0
+Pennsylvania,Union,50,1
+Pennsylvania,Montour,50,0
+Indiana,Washington,50,1
+Kansas,Coffey,50,8
+Virginia,Carroll,50,0
+Kentucky,Edmonson,50,9
+Virginia,Washington,50,4
+Vermont,Rutland,50,1
+North Carolina,Greene,50,2
+Kentucky,Madison,50,1
+North Carolina,Lincoln,50,0
+North Carolina,Pender,50,1
+Texas,Polk,50,0
+Kentucky,Pulaski,50,2
+Washington,Adams,50,0
+Oklahoma,Kay,50,7
+Maine,Waldo,50,14
+Michigan,Gratiot,50,4
+Louisiana,Caldwell,50,0
+Illinois,Marion,49,0
+Nevada,Lyon,49,0
+Texas,Hale,49,4
+Texas,Henderson,49,0
+Florida,Bradford,49,2
+New Hampshire,Cheshire,49,2
+New York,Chautauqua,49,3
+Missouri,Mississippi,49,0
+Minnesota,Itasca,49,6
+North Carolina,Anson,49,0
+Indiana,Randolph,49,3
+Mississippi,Humphreys,49,5
+New Mexico,Socorro,49,4
+Virginia,King George,48,4
+Wisconsin,St. Croix,48,0
+Georgia,Ben Hill,48,1
+North Carolina,Rockingham,48,2
+Tennessee,Lauderdale,48,1
+West Virginia,Marion,48,2
+New York,Schoharie,48,0
+Vermont,Windsor,48,2
+Georgia,Effingham,47,1
+Ohio,Williams,47,1
+Colorado,Elbert,47,2
+Georgia,Liberty,47,0
+Georgia,Marion,47,2
+Missouri,Perry,47,0
+Iowa,Henry,47,1
+West Virginia,Wood,47,2
+Kentucky,Calloway,47,1
+Wisconsin,La Crosse,47,0
+Alabama,Blount,47,1
+Virginia,Fairfax city,47,3
+Arkansas,Sevier,46,1
+Tennessee,Greene,46,2
+Arizona,Cochise,46,1
+Wisconsin,Green,46,0
+Ohio,Hancock,46,1
+Georgia,Banks,46,0
+Virginia,Henry,46,2
+Georgia,Wilkinson,46,3
+Arkansas,Lonoke,46,0
+Louisiana,East Carroll,46,0
+Iowa,Boone,46,0
+Georgia,Toombs,46,4
+Mississippi,Amite,45,1
+Pennsylvania,Clinton,45,0
+North Carolina,Caswell,45,1
+Florida,Okeechobee,45,0
+Nebraska,Lincoln,45,2
+Alabama,Winston,45,1
+Illinois,Jasper,45,7
+Louisiana,Vermilion,45,3
+Oklahoma,Payne,45,1
+Mississippi,Tunica,45,2
+Mississippi,Wayne,45,0
+Tennessee,Dyer,45,0
+Georgia,Bulloch,45,2
+Indiana,Fulton,45,1
+Virginia,Dinwiddie,45,0
+Georgia,Clinch,45,1
+New York,Allegany,44,0
+Alabama,Henry,44,1
+South Carolina,Edgefield,44,2
+Texas,Wharton,44,0
+Georgia,Pike,44,2
+Michigan,Huron,44,1
+Virginia,Danville city,44,1
+Virginia,Caroline,44,2
+Virginia,Falls Church city,44,4
+Missouri,Moniteau,44,1
+Florida,Hardee,44,0
+Indiana,Marshall,44,1
+Mississippi,Walthall,44,0
+Georgia,Brantley,44,2
+Minnesota,Unknown,44,9
+Georgia,Dodge,44,2
+New Hampshire,Carroll,44,0
+Georgia,Lamar,44,1
+Colorado,Alamosa,43,2
+Virginia,Westmoreland,43,0
+Indiana,Jasper,43,1
+Virginia,Williamsburg city,43,3
+Iowa,Cedar,43,1
+South Dakota,Beadle,43,2
+Minnesota,Nicollet,43,3
+Louisiana,Red River,43,6
+Ohio,Huron,43,1
+New Mexico,Curry,43,0
+Texas,Waller,43,0
+Tennessee,Franklin,43,1
+Nebraska,Gage,43,4
+Arkansas,Miller,42,1
+Illinois,Macoupin,42,1
+Illinois,Adams,42,1
+Washington,Okanogan,42,2
+South Dakota,Yankton,42,0
+New York,Essex,42,0
+Wisconsin,Chippewa,42,0
+Texas,Rusk,42,2
+Minnesota,Watonwan,41,0
+Pennsylvania,Perry,41,1
+South Carolina,Oconee,41,0
+Ohio,Clinton,41,0
+South Carolina,Chester,41,0
+Louisiana,St. Helena,41,1
+California,Nevada,41,1
+South Carolina,Barnwell,41,1
+Kentucky,Allen,41,2
+Virginia,Bedford,41,1
+Indiana,Jefferson,41,1
+Oregon,Klamath,41,0
+Georgia,Seminole,41,2
+Pennsylvania,Bradford,41,5
+Florida,Calhoun,40,2
+California,Sutter,40,2
+Texas,Ochiltree,40,2
+Kansas,Kearny,40,1
+North Dakota,Morton,40,2
+Iowa,Guthrie,40,3
+Illinois,Perry,40,0
+Georgia,Stewart,40,0
+Louisiana,LaSalle,40,0
+Illinois,Pulaski,40,0
+Arkansas,Cross,39,0
+North Dakota,Mountrail,39,0
+Texas,Caldwell,39,0
+Iowa,Des Moines,39,1
+Alabama,Escambia,39,3
+Montana,Missoula,39,1
+Kentucky,Simpson,39,2
+Kentucky,Boyd,39,3
+Georgia,Pickens,39,3
+Michigan,Sanilac,39,5
+Minnesota,Dodge,39,0
+Illinois,Montgomery,39,0
+North Carolina,Stokes,39,0
+Oklahoma,Pittsburg,39,3
+Colorado,Crowley,39,1
+Texas,Navarro,38,2
+Texas,Dawson,38,1
+Texas,Wise,38,2
+Nebraska,Howard,38,0
+Ohio,Muskingum,38,0
+Arkansas,Sharp,38,2
+Minnesota,Chisago,38,1
+Pennsylvania,Blair,38,1
+Mississippi,Jefferson,38,0
+Vermont,Washington,38,1
+Arizona,La Paz,38,2
+Minnesota,Meeker,38,0
+Oregon,Clatsop,38,0
+West Virginia,Fayette,38,3
+Georgia,Fannin,38,1
+North Carolina,Martin,37,4
+Arkansas,White,37,1
+Iowa,Mahaska,37,1
+Tennessee,Anderson,37,1
+Texas,Wilson,37,5
+Colorado,Unknown,37,1
+Montana,Flathead,37,2
+West Virginia,Ohio,37,1
+Georgia,Union,37,1
+Missouri,Sullivan,37,0
+Mississippi,Perry,37,2
+Minnesota,Jackson,36,0
+Minnesota,Goodhue,36,0
+Missouri,Camden,36,1
+Minnesota,Le Sueur,36,1
+South Carolina,Abbeville,36,0
+Texas,Cherokee,36,2
+Georgia,Miller,36,0
+Missouri,Pulaski,36,1
+Iowa,Benton,36,1
+Kentucky,Marshall,36,2
+Pennsylvania,Somerset,36,0
+Texas,Parmer,36,0
+Texas,Red River,36,0
+Texas,Calhoun,36,3
+Wisconsin,Columbia,36,1
+New York,Cortland,36,0
+Ohio,Union,36,0
+Iowa,Jones,36,0
+Georgia,Pulaski,36,2
+West Virginia,Harrison,36,1
+Mississippi,Prentiss,36,3
+Arkansas,Johnson,35,0
+Kentucky,Grant,35,3
+Oklahoma,Ottawa,35,2
+Georgia,Haralson,35,2
+Ohio,Fulton,35,0
+Washington,Lewis,35,3
+Arkansas,Clark,35,0
+Virginia,Essex,35,0
+Utah,Iron,35,0
+Texas,Frio,35,0
+Nebraska,Custer,35,4
+Illinois,Morgan,35,1
+North Carolina,Polk,35,3
+Indiana,Pulaski,35,0
+Alabama,Lawrence,35,0
+North Carolina,Carteret,35,3
+California,Mono,34,1
+California,Shasta,34,4
+Nebraska,Unknown,34,0
+Kentucky,Scott,34,0
+Wisconsin,Marathon,34,1
+North Carolina,Person,34,1
+Kentucky,Barren,34,0
+Georgia,Morgan,34,0
+Ohio,Shelby,34,2
+Tennessee,Marion,34,1
+Nebraska,Butler,34,0
+Kentucky,Nelson,34,0
+Minnesota,Chippewa,34,0
+Georgia,Bleckley,34,0
+North Carolina,Warren,33,0
+Washington,Mason,33,1
+Indiana,Jay,33,0
+Texas,Jasper,33,2
+Georgia,Franklin,33,1
+Wisconsin,Door,33,3
+Wisconsin,Shawano,33,0
+South Carolina,Newberry,33,1
+Pennsylvania,Snyder,33,1
+New Mexico,Rio Arriba,33,0
+Virginia,Salem city,33,0
+Minnesota,Murray,33,0
+Pennsylvania,Clearfield,33,0
+Alabama,Coosa,33,1
+South Carolina,Allendale,33,3
+Maine,Franklin,33,1
+Kentucky,Webster,33,0
+Kansas,Jackson,32,0
+North Carolina,McDowell,32,1
+Texas,Atascosa,32,1
+Virginia,Franklin city,32,1
+Virginia,Staunton city,32,0
+Idaho,Bonneville,32,0
+Kansas,Franklin,32,0
+Pennsylvania,Bedford,32,2
+Minnesota,Becker,32,0
+Missouri,Butler,32,0
+North Carolina,Stanly,32,4
+West Virginia,Hardy,32,0
+Tennessee,DeKalb,32,0
+Illinois,Christian,32,5
+Indiana,Clay,32,1
+Florida,Wakulla,32,1
+Georgia,Baker,32,2
+Idaho,Elmore,31,2
+Virginia,Botetourt,31,3
+Ohio,Fayette,31,0
+Indiana,Brown,31,1
+Georgia,Jones,31,0
+Tennessee,Grundy,31,1
+Idaho,Washington,31,0
+New Mexico,Chaves,31,2
+Wisconsin,Kewaunee,31,1
+Texas,Fayette,31,2
+Georgia,Telfair,31,1
+Ohio,Wyandot,31,2
+Texas,Mason,31,0
+Georgia,Cook,31,2
+South Carolina,Union,31,0
+Tennessee,Hawkins,31,2
+Kansas,Barton,31,1
+Michigan,Arenac,31,1
+Colorado,Teller,31,2
+Georgia,Wilkes,30,1
+Arkansas,Yell,30,1
+Pennsylvania,Wyoming,30,5
+Louisiana,Sabine,30,0
+Virginia,Franklin,30,1
+Missouri,St. Francois,30,2
+Minnesota,Crow Wing,30,1
+Illinois,Vermilion,30,1
+North Carolina,Beaufort,30,0
+Iowa,Iowa,30,0
+Ohio,Hardin,30,0
+Nebraska,York,30,0
+Ohio,Preble,30,1
+Alaska,Juneau City and Borough,30,0
+Georgia,Talbot,30,1
+Georgia,Clay,30,3
+Washington,Jefferson,30,0
+Oklahoma,Muskogee,30,6
+Georgia,Madison,30,1
+Iowa,Clayton,30,3
+Wisconsin,Oconto,30,0
+Oregon,Coos,30,0
+South Carolina,Hampton,30,0
+Texas,Hutchinson,30,0
+Indiana,Perry,30,1
+Tennessee,Smith,29,1
+Idaho,Lincoln,29,0
+Nebraska,Merrick,29,0
+Arkansas,Hot Spring,29,0
+Georgia,Charlton,29,1
+Tennessee,Haywood,29,1
+Colorado,Montezuma,29,3
+Minnesota,Morrison,29,0
+Oklahoma,Cherokee,29,1
+Wisconsin,Clark,29,4
+Oklahoma,Pawnee,29,2
+West Virginia,Mineral,29,0
+Missouri,Adair,29,0
+Wyoming,Campbell,29,0
+Montana,Toole,29,6
+Virginia,Halifax,29,0
+Alabama,Cherokee,29,0
+West Virginia,Putnam,29,0
+North Carolina,Ashe,28,0
+Ohio,Defiance,28,1
+Kansas,Saline,28,2
+Oklahoma,Mayes,28,4
+Indiana,Sullivan,28,0
+Texas,Castro,28,1
+Kansas,Wabaunsee,28,0
+Virginia,Waynesboro city,28,0
+Florida,Jefferson,28,2
+Vermont,Lamoille,28,1
+North Dakota,Ward,28,1
+Texas,Burnet,28,0
+Iowa,Osceola,28,0
+Arkansas,Van Buren,28,2
+California,Yuba,28,1
+Indiana,Starke,28,2
+Arkansas,Poinsett,28,2
+Kentucky,Pike,28,2
+Virginia,Gloucester,28,1
+Michigan,Mason,27,0
+Pennsylvania,Greene,27,0
+New Mexico,Roosevelt,27,0
+Illinois,Livingston,27,1
+Virginia,Madison,27,1
+Indiana,Whitley,27,2
+Louisiana,Madison,27,0
+Alabama,Clay,27,2
+Idaho,Gooding,27,0
+South Carolina,Jasper,27,1
+Maine,Sagadahoc,27,0
+Virginia,New Kent,27,1
+Tennessee,Weakley,27,0
+Ohio,Lawrence,27,0
+Indiana,Owen,27,1
+Indiana,DeKalb,27,2
+Missouri,Jasper,27,0
+Texas,Donley,27,0
+Nebraska,Dixon,27,0
+Texas,Fannin,27,2
+Minnesota,Lyon,26,0
+Tennessee,Jefferson,26,0
+Florida,Dixie,26,1
+North Carolina,Washington,26,3
+Florida,Baker,26,3
+Georgia,Emanuel,26,2
+Texas,Camp,26,0
+Tennessee,Marshall,26,1
+Arkansas,Independence,26,0
+Massachusetts,Dukes,26,1
+Georgia,Jeff Davis,26,1
+Colorado,Lake,26,0
+Iowa,Buchanan,26,0
+Colorado,Kit Carson,26,3
+North Carolina,Haywood,26,0
+Georgia,Jasper,26,0
+Texas,San Patricio,26,0
+Texas,San Augustine,26,1
+Virginia,Pittsylvania,26,1
+California,Butte,26,0
+Ohio,Guernsey,26,0
+Florida,Union,26,0
+Kansas,Stevens,26,0
+Kansas,McPherson,26,0
+Ohio,Carroll,26,2
+Illinois,Douglas,26,0
+New York,Yates,26,5
+Nebraska,Seward,26,1
+Missouri,Dunklin,26,2
+Florida,Levy,25,0
+Virginia,Cumberland,25,0
+Colorado,Fremont,25,0
+Washington,Klickitat,25,3
+Oklahoma,Stephens,25,1
+Wisconsin,Manitowoc,25,1
+South Carolina,Cherokee,25,2
+Georgia,Jefferson,25,1
+Tennessee,Carroll,25,1
+Wisconsin,Marinette,25,2
+Oregon,Josephine,25,1
+Oregon,Douglas,25,0
+West Virginia,Marshall,25,0
+Iowa,Fayette,25,0
+Nevada,Douglas,25,0
+Virginia,Amherst,25,0
+Missouri,Warren,25,0
+Virginia,Powhatan,25,0
+Alaska,Kenai Peninsula Borough,25,1
+Texas,Milam,25,1
+Mississippi,Pontotoc,25,2
+Arkansas,Greene,25,0
+Utah,Box Elder,25,1
+Virginia,Appomattox,24,0
+Virginia,Charles City,24,1
+Tennessee,Hamblen,24,2
+Nebraska,Washington,24,1
+Georgia,Crawford,24,0
+Georgia,Hart,24,0
+North Carolina,Jackson,24,1
+Oregon,Jefferson,24,0
+Texas,Hockley,24,1
+Iowa,Shelby,24,0
+Ohio,Logan,24,0
+Wyoming,Sweetwater,24,0
+Iowa,Wright,24,0
+Mississippi,Stone,24,0
+Pennsylvania,Clarion,24,2
+Wyoming,Converse,24,0
+Kansas,Labette,23,0
+Oklahoma,Nowata,23,0
+Oklahoma,Beaver,23,0
+Virginia,Wise,23,2
+Nevada,Elko,23,1
+Kansas,Pottawatomie,23,0
+Arkansas,Randolph,23,0
+Minnesota,Douglas,23,0
+Kentucky,Russell,23,4
+Mississippi,Choctaw,23,2
+Georgia,Berrien,23,0
+Kansas,Butler,23,0
+Texas,Hill,23,1
+Alabama,Geneva,23,0
+Indiana,Knox,23,0
+Texas,Sherman,23,0
+Nebraska,Cass,23,0
+Texas,Kendall,23,0
+Ohio,Champaign,23,1
+Oklahoma,Garfield,23,1
+Ohio,Knox,23,1
+Ohio,Brown,23,1
+Indiana,Benton,23,0
+Iowa,Clarke,23,0
+Texas,Van Zandt,23,1
+Michigan,Grand Traverse,23,5
+Missouri,Callaway,23,1
+Wisconsin,Crawford,23,0
+Texas,Pecos,23,0
+Indiana,Crawford,23,1
+New Mexico,Taos,22,0
+Louisiana,Grant,22,1
+Nebraska,Saunders,22,1
+Wisconsin,Pierce,22,0
+North Carolina,Jones,22,2
+Kansas,Meade,22,0
+Georgia,Atkinson,22,2
+Arizona,Gila,22,1
+Georgia,Irwin,22,1
+Iowa,Marion,22,0
+Tennessee,Meigs,22,0
+Mississippi,Webster,22,1
+North Carolina,Perquimans,22,2
+Colorado,San Miguel,22,0
+Alabama,Perry,22,0
+Idaho,Payette,22,2
+Texas,Hood,22,3
+Wisconsin,Juneau,22,1
+Texas,Andrews,22,0
+Alaska,Matanuska-Susitna Borough,22,1
+Oklahoma,Tillman,22,1
+Iowa,Monroe,22,1
+Georgia,Taylor,22,2
+Texas,Wood,22,0
+Mississippi,Tishomingo,21,0
+North Dakota,Williams,21,0
+Illinois,Jo Daviess,21,0
+Hawaii,Kauai,21,0
+Kentucky,Clark,21,0
+Oklahoma,Jackson,21,1
+Minnesota,Waseca,21,0
+Kentucky,Laurel,21,2
+Missouri,Christian,21,0
+Louisiana,Vernon,21,2
+Texas,Cass,21,0
+Oklahoma,Seminole,21,2
+Kansas,Clark,21,0
+Virginia,Grayson,21,0
+Mississippi,Tallahatchie,21,1
+Virginia,Brunswick,21,1
+Iowa,O'Brien,21,0
+Alabama,Conecuh,21,0
+Oregon,Malheur,21,0
+Tennessee,White,21,0
+Michigan,Emmet,21,2
+Mississippi,Quitman,21,0
+Georgia,Towns,21,1
+Tennessee,Lawrence,21,0
+Georgia,Echols,21,0
+Washington,Clallam,21,0
+Northern Mariana Islands,Unknown,21,2
+North Carolina,Alexander,21,0
+South Dakota,Turner,21,0
+Indiana,Tipton,21,1
+Pennsylvania,Crawford,21,0
+Ohio,Coshocton,21,0
+Michigan,Roscommon,21,0
+Mississippi,Franklin,21,1
+Indiana,Union,21,0
+Iowa,Winneshiek,21,0
+Virginia,Amelia,20,1
+South Dakota,Roberts,20,0
+Kentucky,Franklin,20,0
+Iowa,Lee,20,0
+Georgia,Dade,20,1
+Minnesota,Rock,20,0
+Kansas,Montgomery,20,2
+New Mexico,Torrance,20,1
+Nebraska,Clay,20,0
+Kentucky,Hart,20,0
+Indiana,Huntington,20,2
+Kansas,Jefferson,20,0
+Maine,Knox,20,0
+Tennessee,Henry,20,0
+Kentucky,Meade,20,2
+Georgia,Screven,20,1
+Texas,Burleson,20,0
+Tennessee,Cocke,20,0
+Colorado,Park,20,0
+Virginia,Northumberland,20,1
+Alabama,Monroe,20,2
+California,Inyo,20,1
+Georgia,Chattahoochee,20,0
+Kentucky,Perry,20,0
+Arizona,Graham,20,0
+Idaho,Madison,20,0
+Texas,Austin,20,0
+Georgia,Heard,20,1
+Indiana,Parke,20,0
+Wisconsin,Dunn,20,0
+Maine,Somerset,20,0
+Kentucky,McLean,20,0
+Wisconsin,Waupaca,19,1
+Missouri,Andrew,19,0
+Nebraska,Thurston,19,0
+Kentucky,Boyle,19,0
+Arkansas,Drew,19,1
+Kentucky,Woodford,19,0
+Louisiana,West Carroll,19,0
+New Mexico,Guadalupe,19,0
+Oklahoma,Lincoln,19,2
+Nevada,Lander,19,0
+Virginia,Greene,19,1
+Texas,Colorado,19,0
+Tennessee,Obion,19,1
+Texas,Starr,19,0
+Indiana,Switzerland,19,0
+Tennessee,Carter,19,1
+Michigan,Cheboygan,19,1
+Minnesota,Isanti,19,0
+Oklahoma,Bryan,19,1
+Idaho,Cassia,19,1
+Michigan,Mecosta,19,2
+Mississippi,George,19,1
+Illinois,Jersey,19,1
+Virginia,Clarke,19,0
+Iowa,Lyon,19,0
+Arkansas,Ashley,19,0
+Kentucky,Harrison,19,0
+Illinois,Fayette,19,2
+Michigan,Ogemaw,18,0
+Oklahoma,Okmulgee,18,0
+Oklahoma,Logan,18,1
+New Mexico,Lea,18,0
+Kentucky,Floyd,18,0
+Minnesota,McLeod,18,0
+Indiana,Wells,18,0
+Arkansas,Desha,18,0
+Arkansas,Columbia,18,2
+New York,Franklin,18,0
+Texas,Upshur,18,0
+New York,Lewis,18,0
+Virginia,Nottoway,18,0
+South Carolina,Bamberg,18,0
+Washington,Asotin,18,2
+Indiana,Fountain,18,2
+Colorado,Saguache,18,0
+Tennessee,Overton,18,0
+Idaho,Minidoka,18,0
+South Dakota,Moody,18,0
+Texas,Dallam,18,0
+North Carolina,Dare,18,1
+Illinois,Washington,18,0
+Oregon,Wasco,18,1
+Virginia,Buchanan,18,0
+Missouri,Newton,18,1
+Iowa,Harrison,18,0
+Washington,Whitman,18,0
+Illinois,Ford,18,1
+Tennessee,Campbell,17,1
+Indiana,Blackford,17,1
+West Virginia,Morgan,17,0
+Arkansas,Cleveland,17,0
+Missouri,Clinton,17,0
+Michigan,Gladwin,17,1
+South Dakota,Hughes,17,0
+South Dakota,Todd,17,0
+South Dakota,Codington,17,0
+Michigan,Kalkaska,17,2
+North Carolina,Cherokee,17,1
+Texas,Limestone,17,1
+Tennessee,Morgan,17,0
+Texas,DeWitt,17,1
+Georgia,Schley,17,1
+Maine,Oxford,17,0
+Minnesota,Fillmore,17,1
+Maine,Lincoln,17,0
+Kentucky,Marion,17,0
+Arkansas,Sebastian,17,0
+Nebraska,Cuming,17,0
+Kansas,Grant,17,0
+Iowa,Grundy,17,0
+Iowa,Cerro Gordo,17,0
+Tennessee,Lincoln,17,0
+Kentucky,Todd,17,0
+New Mexico,Eddy,17,1
+Illinois,Menard,17,0
+Missouri,Webster,17,0
+Montana,Cascade,17,2
+Georgia,Chattooga,17,2
+Idaho,Bannock,16,0
+Virginia,Wythe,16,1
+Tennessee,Warren,16,0
+Colorado,Clear Creek,16,1
+Wyoming,Johnson,16,1
+Ohio,Perry,16,1
+New Mexico,Grant,16,0
+Ohio,Vinton,16,0
+Iowa,Monona,16,0
+Illinois,Mason,16,0
+Minnesota,Wabasha,16,0
+Pennsylvania,Tioga,16,2
+Illinois,Woodford,16,1
+New Hampshire,Sullivan,16,1
+Wyoming,Sheridan,16,0
+Georgia,Warren,16,0
+Virginia,Unknown,16,0
+Idaho,Gem,16,0
+North Dakota,Stutsman,16,0
+Kansas,Geary,16,0
+Indiana,Posey,16,0
+Kansas,Haskell,16,0
+Montana,Lewis and Clark,16,0
+Kentucky,Spencer,16,0
+Oregon,Columbia,16,0
+Iowa,Madison,16,1
+Wisconsin,Lafayette,16,0
+Texas,Hansford,16,2
+Georgia,Jenkins,16,1
+North Dakota,McKenzie,16,0
+Arkansas,Grant,16,0
+Kentucky,Montgomery,16,0
+Michigan,Missaukee,16,1
+Alaska,Ketchikan Gateway Borough,16,0
+Texas,Marion,16,0
+Wisconsin,Douglas,15,0
+Oklahoma,Garvin,15,1
+Illinois,Shelby,15,1
+Ohio,Seneca,15,2
+Wisconsin,Jackson,15,1
+Oklahoma,Craig,15,0
+Virginia,King William,15,0
+Kansas,Harvey,15,1
+California,Mariposa,15,1
+California,Mendocino,15,0
+Oklahoma,Carter,15,1
+Kansas,Atchison,15,0
+South Dakota,Clay,15,0
+Wyoming,Carbon,15,1
+Wisconsin,Monroe,15,1
+West Virginia,Preston,15,0
+Wyoming,Washakie,15,0
+Illinois,Bureau,15,1
+Ohio,Ashland,15,0
+Texas,Swisher,15,0
+Michigan,Delta,15,2
+Washington,San Juan,15,0
+West Virginia,Mason,15,0
+Georgia,Rabun,15,1
+Ohio,Highland,15,1
+Tennessee,Rhea,15,0
+West Virginia,Logan,15,1
+Nebraska,Stanton,15,0
+Michigan,Clare,15,2
+Indiana,Spencer,15,1
+Kentucky,Breckinridge,15,1
+Washington,Grays Harbor,15,0
+Alabama,Lamar,15,0
+Texas,Erath,15,1
+Tennessee,Johnson,15,0
+Texas,Jackson,15,1
+Virginia,Smyth,15,0
+California,Del Norte,14,0
+Texas,Kleberg,14,1
+Arkansas,Howard,14,0
+Kansas,Gray,14,0
+Illinois,Carroll,14,2
+Arkansas,Izard,14,0
+Wisconsin,Richland,14,3
+Michigan,Charlevoix,14,1
+Kentucky,Lyon,14,3
+North Carolina,Chowan,14,0
+South Dakota,Brookings,14,0
+Oklahoma,Sequoyah,14,3
+Vermont,Caledonia,14,0
+North Carolina,Gates,14,0
+Arkansas,Bradley,14,1
+Tennessee,Crockett,14,1
+Oregon,Hood River,14,0
+Texas,Willacy,14,1
+Missouri,McDonald,14,0
+Wyoming,Lincoln,14,0
+Florida,Washington,14,1
+Arkansas,Conway,14,1
+Virginia,Charlotte,14,0
+Missouri,New Madrid,14,1
+Texas,Wheeler,14,0
+Iowa,Butler,14,0
+Tennessee,Polk,14,0
+Georgia,Wayne,14,0
+Ohio,Scioto,14,0
+Missouri,Ray,14,0
+Missouri,Pike,14,1
+Illinois,Mercer,14,0
+Nebraska,Gosper,13,0
+Iowa,Davis,13,0
+Texas,Val Verde,13,0
+Minnesota,Swift,13,0
+Virginia,Campbell,13,1
+Georgia,Lincoln,13,1
+Tennessee,Jackson,13,0
+Kentucky,Henry,13,0
+Florida,Glades,13,1
+Kentucky,Greenup,13,0
+Tennessee,Cannon,13,0
+Indiana,Ohio,13,0
+Georgia,Tattnall,13,0
+Indiana,Warren,13,1
+Kentucky,McCreary,13,0
+Iowa,Webster,13,1
+California,Calaveras,13,0
+West Virginia,Mercer,13,0
+Virginia,Rockbridge,13,0
+Ohio,Athens,13,1
+Iowa,Greene,13,0
+West Virginia,Raleigh,13,0
+Tennessee,Perry,13,0
+Alabama,Cleburne,13,1
+Kentucky,Anderson,13,1
+Texas,Cooke,13,0
+Texas,Terry,13,0
+Kentucky,Whitley,13,0
+Nebraska,Phelps,13,0
+Ohio,Holmes,13,1
+Mississippi,Benton,13,0
+Texas,Morris,13,0
+Oklahoma,Le Flore,13,1
+Virginia,Nelson,13,0
+Minnesota,Mille Lacs,13,1
+Tennessee,McNairy,12,0
+Oregon,Morrow,12,0
+Kentucky,Mercer,12,0
+North Carolina,Alleghany,12,0
+Colorado,Baca,12,0
+Iowa,Delaware,12,0
+Arkansas,Perry,12,0
+Mississippi,Alcorn,12,1
+Illinois,Hancock,12,0
+Pennsylvania,Fulton,12,1
+Iowa,Mills,12,0
+Kentucky,Rockcastle,12,0
+Wisconsin,Vernon,12,0
+Iowa,Keokuk,12,0
+Oklahoma,McCurtain,12,0
+West Virginia,Hampshire,12,1
+Tennessee,Humphreys,12,1
+Iowa,Howard,12,0
+North Dakota,Dunn,12,0
+Tennessee,Henderson,12,0
+Arkansas,Lee,12,1
+Missouri,Taney,12,2
+California,Glenn,12,0
+Virginia,Rappahannock,12,0
+North Carolina,Watauga,12,0
+Texas,San Jacinto,12,0
+Iowa,Jefferson,12,0
+West Virginia,Hancock,12,0
+Oklahoma,Custer,12,0
+Massachusetts,Nantucket,12,0
+Virginia,Middlesex,12,0
+Arkansas,Crawford,12,0
+Kansas,Scott,12,0
+Kentucky,Caldwell,12,0
+Tennessee,Chester,12,0
+Illinois,Bond,12,1
+Iowa,Hardin,12,0
+Tennessee,Giles,12,0
+Ohio,Henry,12,0
+Iowa,Floyd,11,1
+Colorado,Prowers,11,0
+Arkansas,Chicot,11,0
+Minnesota,Wilkin,11,3
+Michigan,Manistee,11,0
+Wisconsin,Green Lake,11,0
+Texas,Trinity,11,0
+Wisconsin,Iowa,11,0
+Maine,Hancock,11,1
+Colorado,Otero,11,1
+Pennsylvania,McKean,11,1
+Ohio,Jackson,11,0
+New Hampshire,Unknown,11,0
+Minnesota,Norman,11,0
+Wisconsin,Barron,11,0
+Tennessee,Scott,11,0
+Illinois,Crawford,11,0
+Georgia,Webster,11,1
+Iowa,Audubon,11,1
+Michigan,Leelanau,11,0
+Wyoming,Uinta,11,0
+South Dakota,Day,11,0
+Montana,Silver Bow,11,0
+Georgia,McIntosh,11,0
+Maryland,Unknown,11,88
+Nebraska,Kearney,11,0
+Kansas,Hamilton,11,0
+Wisconsin,Trempealeau,11,0
+Ohio,Paulding,11,0
+Minnesota,Cass,11,2
+Minnesota,Faribault,11,0
+Oklahoma,Pontotoc,11,2
+Georgia,Lanier,11,2
+Michigan,Antrim,11,0
+North Carolina,Currituck,11,0
+Texas,Hartley,11,2
+Idaho,Teton,11,0
+Virginia,Buena Vista city,11,0
+Michigan,Wexford,11,2
+Colorado,Yuma,11,0
+Colorado,Washington,11,0
+Iowa,Hamilton,11,0
+Michigan,Presque Isle,11,0
+California,Lake,11,0
+Illinois,Franklin,11,0
+Missouri,Wright,11,0
+North Dakota,Richland,11,0
+Texas,Lamb,11,0
+Texas,Kerr,10,0
+Utah,Morgan,10,0
+Texas,Tyler,10,0
+Virginia,Lee,10,0
+Texas,Bailey,10,0
+Arkansas,Ouachita,10,0
+Utah,Uintah,10,0
+Virginia,Pulaski,10,0
+South Dakota,Charles Mix,10,0
+Wyoming,Albany,10,0
+South Dakota,Oglala Lakota,10,0
+Tennessee,Hardin,10,1
+Washington,Stevens,10,1
+Iowa,Page,10,0
+Oklahoma,Kingfisher,10,0
+Georgia,Twiggs,10,0
+Kentucky,Union,10,0
+Illinois,Brown,10,0
+Nebraska,Kimball,10,0
+Nebraska,Morrill,10,0
+Kentucky,Bracken,10,0
+Florida,Holmes,10,0
+Oklahoma,McIntosh,10,1
+Illinois,Logan,10,0
+Minnesota,Sibley,10,0
+Minnesota,Pipestone,10,0
+Kentucky,Ballard,10,0
+New Mexico,San Miguel,10,0
+Illinois,Fulton,10,0
+Colorado,Phillips,10,0
+Georgia,Candler,10,0
+North Dakota,Walsh,10,0
+Michigan,Osceola,10,0
+Indiana,Gibson,10,0
+Indiana,Adams,10,1
+North Carolina,Yancey,10,0
+Minnesota,Brown,10,2
+Ohio,Harrison,10,0
+New York,Schuyler,10,0
+Arkansas,Lafayette,9,1
+Texas,Montague,9,1
+Tennessee,Fentress,9,0
+Nebraska,Cheyenne,9,0
+Alabama,Fayette,9,0
+Texas,Palo Pinto,9,2
+West Virginia,Boone,9,0
+Texas,Leon,9,0
+South Dakota,Davison,9,1
+Wisconsin,Forest,9,0
+Missouri,Washington,9,1
+South Dakota,Grant,9,0
+South Dakota,Lawrence,9,0
+West Virginia,Greenbrier,9,0
+Kentucky,Carter,9,0
+Tennessee,Sequatchie,9,0
+Kansas,Doniphan,9,0
+Nebraska,Polk,9,0
+West Virginia,Nicholas,9,1
+Kentucky,Bourbon,9,1
+North Carolina,Pamlico,9,0
+West Virginia,Roane,9,0
+South Dakota,Stanley,9,0
+Kansas,Ellis,9,0
+Tennessee,Roane,9,0
+Washington,Pacific,9,1
+Virginia,Patrick,9,0
+Illinois,Cumberland,9,0
+Texas,Zavala,9,0
+Virginia,Alleghany,9,0
+Iowa,Clay,9,0
+Missouri,Benton,9,0
+Vermont,Orleans,9,0
+Iowa,Cherokee,9,0
+South Carolina,Calhoun,9,1
+Missouri,Cedar,9,0
+Missouri,Cooper,9,0
+Colorado,Rio Grande,9,0
+Utah,Duchesne,9,0
+Illinois,Piatt,9,0
+Missouri,Henry,9,1
+Minnesota,Kanabec,9,1
+Illinois,Wayne,9,1
+Arkansas,Hempstead,9,1
+Minnesota,Beltrami,9,0
+Illinois,Clark,9,0
+Kentucky,Taylor,9,0
+Kentucky,Trigg,9,0
+Indiana,Vermillion,8,0
+Minnesota,Marshall,8,0
+Michigan,Menominee,8,0
+North Carolina,Transylvania,8,0
+Illinois,Henderson,8,0
+Texas,Callahan,8,1
+Indiana,Martin,8,0
+West Virginia,Taylor,8,0
+Arkansas,Stone,8,0
+Georgia,Montgomery,8,0
+New Mexico,Luna,8,1
+Kansas,Stanton,8,0
+North Carolina,Mitchell,8,0
+Tennessee,Stewart,8,0
+California,Amador,8,0
+Iowa,Appanoose,8,3
+Iowa,Jackson,8,0
+Georgia,Treutlen,8,0
+Illinois,Moultrie,8,0
+Georgia,Quitman,8,1
+Virginia,Russell,8,0
+West Virginia,Randolph,8,0
+Kentucky,Mason,8,0
+West Virginia,Pocahontas,8,0
+Utah,Carbon,8,0
+Pennsylvania,Venango,8,0
+Missouri,Ste. Genevieve,8,1
+Missouri,Morgan,8,0
+Montana,Big Horn,8,0
+Kentucky,Knox,8,0
+Missouri,Lawrence,8,0
+Montana,Madison,8,1
+Texas,Madison,8,0
+Montana,Park,8,0
+Missouri,Harrison,8,0
+Texas,Lavaca,8,1
+Texas,Lampasas,8,0
+Texas,Jim Wells,8,0
+Vermont,Orange,8,0
+West Virginia,Gilmer,8,0
+Texas,Hopkins,8,0
+Kentucky,Wayne,8,0
+Illinois,Alexander,8,0
+Utah,Juab,8,0
+Utah,Sevier,8,0
+Missouri,Crawford,8,0
+Nebraska,Knox,8,0
+Idaho,Owyhee,8,0
+Iowa,Ida,8,0
+Arkansas,Polk,8,0
+Kentucky,Lewis,8,0
+North Dakota,Ramsey,8,1
+Missouri,Randolph,8,0
+Wyoming,Hot Springs,8,0
+Iowa,Van Buren,8,0
+Kansas,Cherokee,8,0
+Ohio,Adams,8,1
+Colorado,Archuleta,8,0
+Tennessee,Claiborne,8,0
+Oregon,Lincoln,8,0
+Wisconsin,Wood,8,0
+Florida,Gilchrist,8,0
+Missouri,Bates,7,1
+Virginia,Lancaster,7,0
+Tennessee,Benton,7,1
+Texas,Hamilton,7,0
+Nebraska,Johnson,7,0
+Texas,Goliad,7,0
+Texas,Robertson,7,0
+Colorado,Ouray,7,1
+Virginia,Scott,7,2
+Kentucky,Lincoln,7,1
+Ohio,Gallia,7,1
+Kansas,Rooks,7,0
+Wisconsin,Portage,7,0
+Iowa,Humboldt,7,0
+Iowa,Chickasaw,7,0
+Virginia,Lunenburg,7,0
+Nebraska,Antelope,7,0
+Maryland,Garrett,7,0
+Montana,Roosevelt,7,0
+Mississippi,Greene,7,1
+Illinois,Johnson,7,0
+Texas,Lee,7,0
+Georgia,Wheeler,7,0
+Kentucky,Hancock,7,0
+Texas,Live Oak,7,0
+West Virginia,Barbour,7,1
+Montana,Lincoln,7,1
+Pennsylvania,Forest,7,0
+Idaho,Jefferson,7,0
+Mississippi,Sharkey,7,0
+West Virginia,Wetzel,7,0
+Iowa,Carroll,7,0
+Virginia,King and Queen,7,0
+Missouri,Ripley,7,0
+Texas,Freestone,7,0
+Wisconsin,Oneida,7,0
+North Dakota,Ransom,7,0
+Pennsylvania,Jefferson,7,0
+Kansas,Marion,7,1
+Wisconsin,Waushara,7,0
+Texas,Zapata,7,0
+Virginia,Poquoson city,7,0
+North Dakota,McLean,7,0
+Utah,Emery,7,0
+Wisconsin,Polk,7,0
+Kentucky,Livingston,7,0
+Missouri,Carroll,7,0
+Maine,Aroostook,7,0
+Kentucky,Bath,7,1
+Tennessee,Houston,7,0
+South Carolina,McCormick,7,1
+Kansas,Osage,7,0
+Missouri,Lewis,7,1
+Iowa,Winnebago,7,0
+Kansas,Linn,7,0
+Missouri,Montgomery,7,0
+Nevada,Churchill,7,1
+Iowa,Franklin,7,0
+Texas,Franklin,7,0
+Illinois,Schuyler,7,0
+Oklahoma,Noble,7,0
+Iowa,Dickinson,7,0
+West Virginia,Grant,6,0
+Texas,Howard,6,1
+Nebraska,Cedar,6,0
+Iowa,Adair,6,0
+Nebraska,Burt,6,0
+Kansas,Crawford,6,1
+Illinois,Massac,6,0
+Nebraska,Furnas,6,0
+West Virginia,McDowell,6,0
+Nebraska,Jefferson,6,0
+South Dakota,Lyman,6,0
+Utah,Sanpete,6,0
+Texas,Falls,6,0
+South Dakota,Jerauld,6,1
+Nebraska,Otoe,6,0
+Oklahoma,Major,6,1
+Minnesota,Wadena,6,0
+Pennsylvania,Elk,6,0
+Utah,Millard,6,0
+Missouri,Chariton,6,0
+Kentucky,Washington,6,0
+Kansas,Bourbon,6,1
+Texas,Wilbarger,6,0
+Arkansas,Carroll,6,0
+Kentucky,Rowan,6,0
+Texas,Uvalde,6,0
+Kentucky,Pendleton,6,0
+Missouri,Nodaway,6,0
+Kentucky,Monroe,6,0
+Oregon,Tillamook,6,0
+Vermont,Unknown,6,0
+California,Siskiyou,6,0
+Oklahoma,Marshall,6,0
+Missouri,Barry,6,0
+Missouri,Audrain,6,0
+Oregon,Union,6,0
+Kentucky,Leslie,6,0
+Arkansas,Baxter,6,0
+Kentucky,Larue,6,0
+Montana,Carbon,6,0
+Oklahoma,Latimer,6,1
+Montana,Glacier,6,0
+Illinois,Effingham,6,1
+Oklahoma,Kiowa,6,0
+Virginia,Tazewell,6,0
+Virginia,Surry,6,1
+Montana,Ravalli,6,0
+West Virginia,Monroe,6,0
+Texas,Gaines,6,0
+Texas,Bosque,6,0
+Tennessee,Clay,6,0
+Michigan,Alcona,6,1
+South Dakota,Sanborn,6,0
+Arkansas,Searcy,6,0
+Georgia,Long,6,0
+Oklahoma,Beckham,6,0
+Illinois,Saline,6,0
+Virginia,Lexington city,6,0
+Ohio,Noble,6,0
+Ohio,Pike,6,0
+West Virginia,Upshur,6,0
+New Mexico,Los Alamos,6,0
+Colorado,Moffat,6,0
+Iowa,Sac,6,0
+Kansas,Sherman,6,0
+Florida,Lafayette,6,0
+North Carolina,Swain,6,0
+Idaho,Latah,6,0
+Texas,Blanco,6,0
+Kansas,Miami,6,0
+Kansas,Woodson,6,0
+Texas,Bee,6,0
+Texas,Bandera,6,0
+Idaho,Bingham,6,0
+Kansas,Sumner,6,1
+Oklahoma,Choctaw,6,0
+Tennessee,Grainger,6,0
+North Dakota,Pembina,6,0
+Michigan,Mackinac,6,0
+Colorado,Cheyenne,5,0
+Kansas,Clay,5,1
+Montana,Lake,5,0
+Iowa,Hancock,5,0
+Texas,Comanche,5,1
+Colorado,Grand,5,0
+Tennessee,Decatur,5,0
+Oklahoma,Haskell,5,0
+New Mexico,Colfax,5,0
+Kentucky,Johnson,5,0
+Wisconsin,Buffalo,5,1
+Texas,Lynn,5,1
+South Dakota,Walworth,5,0
+Kentucky,Hickman,5,0
+West Virginia,Pendleton,5,0
+Ohio,Van Wert,5,0
+New Mexico,Quay,5,1
+Missouri,Marion,5,0
+Wyoming,Crook,5,0
+Michigan,Gogebic,5,1
+Wyoming,Goshen,5,0
+Missouri,Howell,5,0
+Michigan,Montmorency,5,0
+Michigan,Dickinson,5,2
+Kansas,Brown,5,0
+Michigan,Oscoda,5,1
+North Dakota,Burke,5,0
+Virginia,Mathews,5,0
+Missouri,Linn,5,1
+Missouri,Osage,5,0
+Iowa,Unknown,5,0
+Georgia,Evans,5,0
+North Carolina,Macon,5,1
+North Carolina,Clay,5,0
+Ohio,Morgan,5,0
+New York,Hamilton,5,0
+Kentucky,Letcher,5,0
+Florida,Taylor,5,0
+Illinois,Marshall,5,0
+Missouri,Vernon,5,0
+Arkansas,Boone,5,0
+California,Plumas,5,0
+Indiana,Pike,5,0
+Oregon,Curry,5,0
+Texas,Eastland,5,0
+Arkansas,Monroe,5,0
+Nebraska,Franklin,5,0
+Iowa,Montgomery,5,0
+West Virginia,Lincoln,5,0
+Minnesota,Koochiching,5,0
+South Dakota,McCook,5,1
+Arkansas,Phillips,5,1
+Louisiana,Tensas,5,0
+South Dakota,Meade,5,0
+West Virginia,Lewis,5,0
+Nebraska,Webster,5,0
+Nebraska,Red Willow,5,0
+Kentucky,Cumberland,5,0
+Minnesota,Mahnomen,5,1
+Virginia,Giles,5,0
+Texas,Gillespie,5,0
+Minnesota,Pope,5,0
+Kansas,Edwards,5,0
+Minnesota,Renville,5,0
+South Dakota,Lake,5,0
+Oklahoma,Cotton,5,2
+Texas,Carson,5,0
+Texas,Floyd,5,0
+Texas,Duval,5,0
+Missouri,Bollinger,4,0
+Arkansas,Fulton,4,0
+Arkansas,Logan,4,0
+Nebraska,Nance,4,0
+Minnesota,Lincoln,4,0
+Kansas,Ottawa,4,0
+Wisconsin,Vilas,4,0
+Kentucky,Menifee,4,0
+Kansas,Republic,4,0
+Kansas,Rice,4,0
+Texas,Sabine,4,0
+Kansas,Chautauqua,4,0
+Michigan,Schoolcraft,4,0
+North Carolina,Tyrrell,4,0
+North Dakota,Mercer,4,0
+Missouri,DeKalb,4,0
+Iowa,Fremont,4,0
+North Dakota,Rolette,4,0
+Utah,Grand,4,0
+Iowa,Mitchell,4,0
+Texas,Collingsworth,4,0
+Texas,Cottle,4,1
+Arkansas,Clay,4,0
+Pennsylvania,Potter,4,0
+Texas,Young,4,1
+Missouri,Miller,4,0
+Kansas,Morton,4,0
+Missouri,Carter,4,1
+Missouri,Caldwell,4,0
+Nebraska,Wayne,4,0
+Virginia,Floyd,4,0
+Texas,Karnes,4,0
+Vermont,Grand Isle,4,0
+North Dakota,Barnes,4,0
+Michigan,Benzie,4,0
+Missouri,Scotland,4,0
+Iowa,Kossuth,4,0
+Wisconsin,Rusk,4,0
+Virginia,Craig,4,0
+Kentucky,Knott,4,0
+Kentucky,Crittenden,4,1
+Washington,Wahkiakum,4,0
+Illinois,Greene,4,0
+Nebraska,Fillmore,4,0
+Nevada,Mineral,4,0
+Texas,La Salle,4,0
+Kansas,Cloud,4,0
+Wisconsin,Sawyer,4,0
+Colorado,Gilpin,4,0
+Idaho,Bonner,4,0
+South Dakota,Clark,4,0
+West Virginia,Wirt,4,0
+Texas,Jack,4,0
+Texas,Jim Hogg,4,0
+Colorado,Las Animas,4,0
+Kansas,Cowley,4,1
+South Dakota,Corson,4,0
+Tennessee,Van Buren,4,0
+Tennessee,Union,4,0
+Minnesota,Aitkin,4,0
+West Virginia,Tucker,4,0
+Minnesota,Yellow Medicine,4,0
+South Dakota,Spink,4,0
+Colorado,Costilla,4,0
+Wisconsin,Adams,4,1
+Texas,Garza,4,0
+Missouri,Stone,4,0
+Oklahoma,Love,4,0
+South Dakota,Bon Homme,4,0
+Illinois,De Witt,4,0
+New Hampshire,Coos,4,0
+Arkansas,Nevada,4,0
+Montana,Broadwater,4,0
+Kansas,Jewell,4,0
+Texas,Newton,4,0
+Illinois,Lawrence,4,0
+Kentucky,Garrard,4,0
+Minnesota,Big Stone,3,0
+Michigan,Lake,3,0
+Missouri,Dallas,3,0
+Iowa,Pocahontas,3,0
+Arizona,Greenlee,3,0
+Wyoming,Sublette,3,0
+Minnesota,Traverse,3,0
+Colorado,Huerfano,3,0
+Iowa,Taylor,3,0
+Alaska,Southeast Fairbanks Census Area,3,0
+Colorado,Lincoln,3,0
+Colorado,Hinsdale,3,0
+Minnesota,Lac qui Parle,3,0
+Louisiana,Cameron,3,0
+Virginia,Radford city,3,0
+Minnesota,Redwood,3,0
+Minnesota,Red Lake,3,0
+Minnesota,Pennington,3,0
+Illinois,Richland,3,0
+Alaska,Petersburg Borough,3,0
+Virginia,Bristol city,3,0
+Texas,Martin,3,1
+Missouri,Daviess,3,0
+Kentucky,Carroll,3,0
+Nevada,White Pine,3,0
+Oklahoma,Blaine,3,0
+Texas,Clay,3,0
+Nebraska,Valley,3,0
+Kentucky,Breathitt,3,0
+Texas,Crosby,3,1
+West Virginia,Mingo,3,1
+South Dakota,Marshall,3,0
+Kentucky,Carlisle,3,1
+Nebraska,Nemaha,3,0
+South Dakota,Fall River,3,0
+Arkansas,Pike,3,0
+Utah,Kane,3,0
+Kentucky,Clay,3,0
+Kentucky,Clinton,3,0
+Idaho,Power,3,0
+Kentucky,Fleming,3,0
+Kentucky,Gallatin,3,0
+South Dakota,Hutchinson,3,0
+South Dakota,Hamlin,3,0
+West Virginia,Tyler,3,0
+Idaho,Idaho,3,0
+Idaho,Fremont,3,0
+West Virginia,Wyoming,3,0
+North Dakota,Sargent,3,0
+North Dakota,Slope,3,0
+North Dakota,Pierce,3,0
+Wisconsin,Lincoln,3,0
+Kansas,Mitchell,3,0
+Kansas,Morris,3,0
+Kansas,Nemaha,3,0
+Wisconsin,Marquette,3,1
+Tennessee,Moore,3,0
+North Carolina,Camden,3,0
+Ohio,Meigs,3,0
+California,Colusa,3,0
+New Mexico,Union,3,0
+Kansas,Greenwood,3,0
+Tennessee,Unicoi,3,0
+New Mexico,Lincoln,3,0
+Wisconsin,Bayfield,3,1
+Idaho,Adams,3,0
+Texas,Aransas,3,0
+Nebraska,Boone,3,0
+Arkansas,Newton,3,0
+South Dakota,Aurora,3,0
+Texas,Refugio,3,0
+Montana,Deer Lodge,3,0
+Missouri,Laclede,3,0
+Texas,Oldham,3,1
+Washington,Skamania,3,0
+Missouri,Worth,3,0
+Missouri,St. Clair,3,0
+Texas,Reeves,3,0
+Texas,Winkler,3,0
+South Dakota,Buffalo,3,0
+Kentucky,Martin,3,0
+Kentucky,Metcalfe,3,0
+Missouri,Phelps,3,0
+Missouri,Madison,3,0
+Kentucky,Trimble,3,0
+Kansas,Chase,3,0
+Illinois,Clay,3,0
+Montana,Golden Valley,3,0
+Missouri,Livingston,3,0
+Missouri,Gentry,3,0
+Oklahoma,Jefferson,3,0
+Texas,McCulloch,3,0
+Oklahoma,Johnston,3,0
+West Virginia,Brooke,3,0
+Missouri,Howard,3,0
+Utah,Garfield,3,0
+Iowa,Worth,3,0
+Oklahoma,Woods,3,0
+Wyoming,Big Horn,3,0
+Montana,Jefferson,3,0
+Texas,Llano,3,0
+Montana,Richland,3,0
+Kansas,Kiowa,2,0
+Kansas,Phillips,2,0
+Iowa,Emmet,2,0
+Kansas,Neosho,2,0
+Wisconsin,Florence,2,0
+Wisconsin,Menominee,2,0
+Kansas,Osborne,2,0
+Alaska,Bethel Census Area,2,0
+Michigan,Chippewa,2,0
+Kansas,Norton,2,0
+Wisconsin,Iron,2,1
+West Virginia,Clay,2,0
+Washington,Pend Oreille,2,0
+Kansas,Sheridan,2,0
+Kansas,Dickinson,2,0
+West Virginia,Braxton,2,0
+Iowa,Calhoun,2,0
+Kentucky,Fulton,2,0
+Kansas,Cheyenne,2,0
+Iowa,Cass,2,0
+Wyoming,Niobrara,2,0
+Michigan,Houghton,2,0
+Kentucky,Casey,2,0
+Iowa,Union,2,0
+Kansas,Smith,2,0
+West Virginia,Pleasants,2,0
+Kentucky,Lawrence,2,0
+Kansas,Ellsworth,2,0
+Maine,Washington,2,0
+West Virginia,Calhoun,2,0
+Wisconsin,Ashland,2,0
+Washington,Lincoln,2,0
+Kentucky,Owsley,2,0
+Iowa,Lucas,2,0
+Pennsylvania,Warren,2,1
+Illinois,White,2,0
+New Mexico,Catron,2,1
+Idaho,Custer,2,0
+Nevada,Lincoln,2,0
+Texas,Childress,2,0
+Texas,Coleman,2,0
+Virginia,Norton city,2,0
+Arkansas,Prairie,2,0
+Texas,Crane,2,0
+Texas,Fisher,2,0
+Nebraska,Keith,2,0
+Nebraska,Greeley,2,0
+Texas,Haskell,2,0
+Idaho,Valley,2,0
+Nebraska,Dawes,2,0
+Arkansas,Madison,2,0
+Montana,Pondera,2,0
+Texas,Lipscomb,2,0
+Texas,Nolan,2,0
+Texas,Rains,2,0
+Texas,Roberts,2,0
+Texas,Runnels,2,0
+Missouri,Reynolds,2,0
+Texas,Scurry,2,0
+Missouri,Ralls,2,0
+Texas,Armstrong,2,0
+California,Alpine,2,0
+Texas,Stephens,2,0
+Tennessee,Pickett,2,0
+Pennsylvania,Sullivan,2,0
+Colorado,Mineral,2,0
+Colorado,Custer,2,0
+Pennsylvania,Cameron,2,0
+Florida,Franklin,2,0
+California,Tuolumne,2,0
+California,Trinity,2,0
+California,Tehama,2,1
+Oklahoma,Okfuskee,2,0
+Oklahoma,Murray,2,0
+Oklahoma,Grant,2,0
+Oklahoma,Dewey,2,0
+South Dakota,Tripp,2,0
+North Dakota,Wells,2,0
+North Dakota,Traill,2,0
+North Dakota,Sioux,2,0
+Iowa,Palo Alto,2,0
+North Dakota,McHenry,2,1
+North Dakota,Grant,2,0
+North Dakota,Eddy,2,0
+Tennessee,Lewis,2,0
+North Carolina,Madison,2,0
+North Carolina,Graham,2,0
+Missouri,Polk,2,0
+Nebraska,Sherman,2,0
+Missouri,Maries,2,0
+Missouri,Gasconade,2,0
+Alaska,Prince of Wales-Hyder Census Area,2,0
+Minnesota,Clearwater,2,0
+Missouri,Atchison,2,0
+Missouri,Macon,2,0
+Missouri,Iron,2,0
+Virginia,Highland,2,0
+Illinois,Stark,2,0
+Minnesota,Grant,2,0
+Minnesota,Houston,2,0
+Illinois,Gallatin,2,0
+Texas,Yoakum,2,0
+Illinois,Hamilton,2,0
+Illinois,Edwards,2,0
+Vermont,Essex,2,0
+Arkansas,Franklin,2,0
+Virginia,Covington city,2,0
+Missouri,Oregon,2,0
+Arkansas,Arkansas,2,0
+Michigan,Luce,2,0
+North Dakota,Steele,1,0
+Kansas,Harper,1,0
+Maine,Piscataquis,1,0
+Oklahoma,Alfalfa,1,0
+Alaska,Yukon-Koyukuk Census Area,1,0
+Oklahoma,Atoka,1,0
+Kansas,Gove,1,0
+Maine,Unknown,1,0
+Wisconsin,Pepin,1,0
+South Dakota,Ziebach,1,0
+Kentucky,Morgan,1,0
+Illinois,Pike,1,0
+North Dakota,Divide,1,0
+Kansas,Pratt,1,0
+Minnesota,Lake,1,0
+Georgia,Glascock,1,0
+Iowa,Adams,1,0
+North Dakota,Benson,1,0
+North Dakota,Bottineau,1,0
+North Dakota,Bowman,1,0
+Kansas,Ness,1,0
+North Dakota,Renville,1,0
+Minnesota,Kittson,1,0
+North Dakota,Emmons,1,1
+North Dakota,Foster,1,0
+North Dakota,McIntosh,1,0
+Tennessee,Hancock,1,0
+Oklahoma,Cimarron,1,0
+North Dakota,Nelson,1,0
+South Dakota,Sully,1,0
+South Dakota,Hyde,1,0
+Oklahoma,Coal,1,0
+Oregon,Wallowa,1,0
+Michigan,Baraga,1,0
+Iowa,Wayne,1,0
+Oregon,Crook,1,0
+Oregon,Grant,1,0
+Oregon,Harney,1,0
+Oregon,Sherman,1,0
+Colorado,Bent,1,0
+Alaska,Nome Census Area,1,0
+Wisconsin,Price,1,0
+Colorado,San Juan,1,0
+Colorado,Conejos,1,0
+Wyoming,Park,1,0
+Colorado,Rio Blanco,1,0
+Alaska,Kodiak Island Borough,1,0
+Illinois,Wabash,1,0
+Iowa,Ringgold,1,0
+Oregon,Baker,1,0
+Kansas,Anderson,1,0
+Oklahoma,Woodward,1,0
+Kansas,Barber,1,0
+South Dakota,Miner,1,0
+South Dakota,McPherson,1,0
+Alaska,Valdez-Cordova Census Area,1,0
+Alaska,Sitka City and Borough,1,0
+South Dakota,Hand,1,0
+South Dakota,Faulk,1,0
+South Dakota,Douglas,1,0
+South Dakota,Deuel,1,0
+Oklahoma,Harper,1,0
+Illinois,Pope,1,0
+Oklahoma,Pushmataha,1,0
+Wisconsin,Washburn,1,0
+Florida,Gulf,1,0
+Oklahoma,Washita,1,0
+Illinois,Putnam,1,0
+North Carolina,Hyde,1,0
+Arkansas,Woodruff,1,0
+North Carolina,Avery,1,0
+Arkansas,Dallas,1,0
+Kentucky,Harlan,1,0
+Arkansas,Little River,1,0
+Texas,Knox,1,0
+Texas,Kimble,1,0
+Kentucky,Green,1,0
+Montana,Stillwater,1,0
+Montana,Wheatland,1,0
+Nebraska,Box Butte,1,0
+Texas,Glasscock,1,0
+Nebraska,Cherry,1,0
+Arkansas,Marion,1,0
+Missouri,Holt,1,0
+Texas,Hemphill,1,0
+Nebraska,Frontier,1,0
+Nebraska,Hitchcock,1,0
+Nebraska,Holt,1,0
+Montana,Musselshell,1,0
+Montana,Meagher,1,0
+Montana,Liberty,1,0
+Montana,Hill,1,0
+Texas,Shackelford,1,0
+Kentucky,Owen,1,0
+Kentucky,Magoffin,1,0
+Texas,San Saba,1,0
+Washington,Ferry,1,0
+Missouri,Schuyler,1,0
+Missouri,Shelby,1,0
+Illinois,Calhoun,1,0
+Washington,Columbia,1,0
+Arkansas,Jackson,1,0
+Montana,Beaverhead,1,0
+Kentucky,Powell,1,0
+Texas,Motley,1,0
+Texas,Mitchell,1,0
+Texas,Mills,1,0
+Arkansas,Montgomery,1,0
+Kentucky,Wolfe,1,0
+Minnesota,Roseau,1,0
+Kansas,Wilson,1,0
+Texas,Brooks,1,0
+Texas,Briscoe,1,0
+Texas,Brewster,1,0
+Arkansas,Scott,1,0
+Idaho,Caribou,1,0
+Idaho,Camas,1,0
+Texas,Archer,1,0
+Illinois,Hardin,1,0
+Missouri,Dent,1,0
+New Mexico,Harding,1,0
+New Mexico,Hidalgo,1,0
+Wisconsin,Burnett,1,1
+Kentucky,Nicholas,1,0
+Kansas,Stafford,1,0
+New Mexico,Sierra,1,0
+Georgia,Taliaferro,1,0
+Idaho,Lemhi,1,0
+North Dakota,Oliver,1,0
+West Virginia,Summers,1,0
+Nevada,Storey,1,0
+Texas,Dimmit,1,0
+Texas,Dickens,1,0
+Nebraska,Nuckolls,1,0
+Texas,Delta,1,0
+Nebraska,Pierce,1,0
+Utah,Piute,1,0
+Nebraska,Richardson,1,0
+Texas,Concho,1,0
+Missouri,Clark,1,0
+Nebraska,Thomas,1,0
+Texas,Coke,1,0
+Texas,Cochran,1,0
+Kentucky,Bell,1,0
+West Virginia,Ritchie,1,0
+Utah,Unknown,0,3
+Nevada,Unknown,0,12
